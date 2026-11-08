@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr-BE">
+  <title>Le Compte — Ce qu’on peut reprocher à l’État belge</title>
+  <subtitle>Le Compte dresse l’inventaire sourcé de ce qu’on peut reprocher à l’État belge : institutions, justice, prisons, asile, finances, services publics, climat, mémoire. Dossiers, outils interactifs et données ouvertes.</subtitle>
+  <link href="https://ouaisfieu.github.io/compte/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://ouaisfieu.github.io/compte/" rel="alternate" type="text/html"/>
+  <id>https://ouaisfieu.github.io/compte/</id>
+  <updated>2026-11-08T08:00:00+01:00</updated>
+  <author><name>ouaisfieu</name><uri>https://github.com/ouaisfieu</uri></author>
+  <rights>CC BY 4.0</rights>
+  <icon>https://ouaisfieu.github.io/compte/assets/img/icon-192.png</icon>
+  <entry>
+    <title>La citoyenneté, c’est le brol ?</title>
+    <link href="https://ouaisfieu.github.io/compte/citoyennete-brol.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/citoyennete-brol.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Grand format"/>
+    <summary type="text">Voter sous une obligation qu’on ne sanctionne plus guère, payer 1.000 euros pour devenir Belge, apprendre la citoyenneté selon son réseau scolaire, pétitionner sans garantie d’être entendu… Enquête sur un statut à géométrie variable — et sur ceux qui tentent de le réinventer.</summary>
+  </entry>
+  <entry>
+    <title>Six gouvernements, sept parlements : la lasagne est servie</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/lasagne-institutionnelle.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/lasagne-institutionnelle.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Institutions &amp; démocratie"/>
+    <summary type="text">Depuis 1970, six réformes de l’État ont empilé les niveaux de pouvoir. Résultat : 46 ministres, neuf ministres compétents pour la santé au début du Covid, et un citoyen qui ne sait plus à quel guichet frapper.</summary>
+  </entry>
+  <entry>
+    <title>Former un gouvernement, ce sport national</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/formations-sans-fin.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/formations-sans-fin.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Institutions &amp; démocratie"/>
+    <summary type="text">541 jours en 2010-2011, 494 en 2019-2020, 239 en 2024-2025 : la Belgique passe une part considérable de sa vie politique à négocier. Et en novembre 2026, la coalition Arizona vacille déjà sur son budget.</summary>
+  </entry>
+  <entry>
+    <title>Bruxelles, 613 jours en apnée</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/bruxelles-en-apnee.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/bruxelles-en-apnee.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Institutions &amp; démocratie"/>
+    <summary type="text">Il a fallu attendre le 14 février 2026 pour que la Région-capitale retrouve un gouvernement de plein exercice. Pendant ce temps, la dette régionale grossissait d’environ 100 millions d’euros par mois.</summary>
+  </entry>
+  <entry>
+    <title>Prisons : 13.624 détenus pour 11.064 places</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/prisons-surpeuplees.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/prisons-surpeuplees.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Justice &amp; État de droit"/>
+    <summary type="text">Matelas au sol, astreintes impayées, unités modulaires promises pour 2028 : condamnée par Strasbourg dès 2014, la Belgique n’a jamais résorbé la surpopulation carcérale. Elle s’aggrave.</summary>
+  </entry>
+  <entry>
+    <title>Condamné, et alors ? L’État qui n’exécute pas ses jugements</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/jugements-non-executes.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/jugements-non-executes.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Justice &amp; État de droit"/>
+    <summary type="text">Plus de 16.000 condamnations pour défaut d’accueil des demandeurs d’asile, des centaines de millions d’euros d’astreintes dans les prisons : l’exécutif belge laisse des décisions de justice sans suite. Le procureur général de Bruxelles parle d’« attaque frontale contre la séparation des pouvoirs ».</summary>
+  </entry>
+  <entry>
+    <title>Palais de justice : quarante ans sous échafaudages</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/palais-de-justice.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/palais-de-justice.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Justice &amp; État de droit"/>
+    <summary type="text">Posés en 1984, les échafaudages du Palais de justice de Bruxelles sont devenus un monument à part entière — au point de devoir eux-mêmes être réparés. Fin des travaux extérieurs annoncée : 2035.</summary>
+  </entry>
+  <entry>
+    <title>Asile : des milliers de condamnations et des nuits dehors</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/crise-accueil.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/crise-accueil.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Asile &amp; droits fondamentaux"/>
+    <summary type="text">Depuis l’automne 2021, des demandeurs d’asile dorment à la rue à Bruxelles alors que la loi impose de les héberger. Les juges belges et la Cour de Strasbourg condamnent ; l’exécutif durcit.</summary>
+  </entry>
+  <entry>
+    <title>Police : qui contrôle les contrôleurs ?</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/police-controle.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/police-controle.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Asile &amp; droits fondamentaux"/>
+    <summary type="text">Mawda, 2 ans, tuée par une balle policière en 2018 ; Jozef Chovanec, mort après une intervention à l’aéroport de Charleroi la même année. Deux drames qui ont mis en lumière les failles du contrôle de la police.</summary>
+  </entry>
+  <entry>
+    <title>22 mars 2016 : les failles d’un État « non défaillant »</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/attentats-22-mars.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/attentats-22-mars.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Sécurité"/>
+    <summary type="text">Trente-deux morts le jour même, trente-cinq au total. La commission d’enquête parlementaire a refusé de parler d’État défaillant — mais a décrit des services qui ne se parlaient pas assez.</summary>
+  </entry>
+  <entry>
+    <title>16 octobre 2023 : l’extradition qui dormait dans un tiroir</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/extradition-oubliee.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/extradition-oubliee.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Sécurité"/>
+    <summary type="text">Deux supporters suédois abattus à Bruxelles par un homme que la Tunisie réclamait depuis 2022. La demande d’extradition avait été perdue de vue pendant plus d’un an.</summary>
+  </entry>
+  <entry>
+    <title>Narcotrafic : quand une juge parle de « narco-État »</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/narcotrafic.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/narcotrafic.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Sécurité"/>
+    <summary type="text">Dans une lettre ouverte publiée en octobre 2025, une juge d’instruction anversoise affirme que la Belgique « évolue vers un narco-État ». À Bruxelles, les fusillades se comptent désormais par centaines.</summary>
+  </entry>
+  <entry>
+    <title>Déficit : la Belgique, lanterne rouge de la zone euro</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/deficit-record.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/deficit-record.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Finances publiques &amp; fiscalité"/>
+    <summary type="text">Avec un déficit de 5,2 % du PIB en 2025, la Belgique a fait pire que la France. Trois agences de notation l’ont dégradée en dix mois, et le gouvernement De Wever a présenté sa démission sur le budget.</summary>
+  </entry>
+  <entry>
+    <title>Travail taxé : la médaille d’or de l’OCDE</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/coin-fiscal.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/coin-fiscal.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Finances publiques &amp; fiscalité"/>
+    <summary type="text">52,5 % : c’est la part du coût salarial d’un célibataire qui part en impôts et cotisations. Aucun pays de l’OCDE ne fait plus. Et jusqu’en 2025, les plus-values financières des particuliers échappaient en règle générale à l’impôt.</summary>
+  </entry>
+  <entry>
+    <title>La voiture de société, une niche qui roule</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/voitures-de-societe.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/voitures-de-societe.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Finances publiques &amp; fiscalité"/>
+    <summary type="text">Près de 600.000 voitures de société pour les seuls salariés, un avantage évalué entre 1,5 et 3,7 milliards d’euros par an, concentré sur les hauts revenus. Et des embouteillages en prime.</summary>
+  </entry>
+  <entry>
+    <title>RER : quarante ans de quai</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/rer-interminable.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/rer-interminable.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Services publics &amp; infrastructures"/>
+    <summary type="text">Imaginé à la fin des années 1980, annoncé pour 2012, le réseau express régional autour de Bruxelles ne sera pas achevé avant 2034 sur la ligne de Nivelles. Faute d’argent, puis faute de permis.</summary>
+  </entry>
+  <entry>
+    <title>Métro 3 : terminus, tout le monde descend ?</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/metro-3.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/metro-3.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Services publics &amp; infrastructures"/>
+    <summary type="text">La ligne de métro nord-sud de Bruxelles devait être le grand chantier de la Région. La Cour des comptes l’a « pulvérisée » en 2025 ; une commission parlementaire parle de « fiasco ».</summary>
+  </entry>
+  <entry>
+    <title>Covid : les maisons de repos en première ligne, l’État à la traîne</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/covid-maisons-de-repos.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/covid-maisons-de-repos.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Santé &amp; social"/>
+    <summary type="text">Au printemps 2020, près de deux tiers des décès liés au Covid ont touché des résidents de maisons de repos. Amnesty a dénoncé des droits humains ignorés ; l’État avait détruit son stock de masques sans le remplacer.</summary>
+  </entry>
+  <entry>
+    <title>Pauvreté : un Bruxellois sur trois sur le fil</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/pauvrete-sans-abrisme.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/pauvrete-sans-abrisme.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Santé &amp; social"/>
+    <summary type="text">Plus de deux millions de Belges sont exposés au risque de pauvreté ou d’exclusion sociale. À Bruxelles, près de 10.000 personnes ont été comptées sans chez-soi en une seule nuit.</summary>
+  </entry>
+  <entry>
+    <title>Handicap : deux fois épinglée par le Conseil de l’Europe</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/handicap-inclusion.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/handicap-inclusion.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Santé &amp; social"/>
+    <summary type="text">Manque de solutions pour les adultes lourdement handicapés, école inclusive restée théorique : le Comité européen des droits sociaux a condamné la Belgique en 2013, puis à nouveau en 2021.</summary>
+  </entry>
+  <entry>
+    <title>Chômage limité dans le temps : la facture glisse vers les CPAS</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/exclusions-chomage.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/exclusions-chomage.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Santé &amp; social"/>
+    <summary type="text">Depuis janvier 2026, les allocations de chômage sont limitées à deux ans. En six mois, quelque 99.000 personnes ont perdu leurs droits ; plus de la moitié ont frappé à la porte d’un CPAS.</summary>
+  </entry>
+  <entry>
+    <title>Climat : l’État coupable de négligence</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/affaire-climat.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/affaire-climat.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Environnement &amp; énergie"/>
+    <summary type="text">Saisie par l’ASBL Klimaatzaak et quelque 58.000 citoyens, la justice a jugé en 2021 que les autorités belges manquaient à leur devoir de prudence, puis leur a ordonné en 2023 de réduire les émissions d’au moins 55 % d’ici 2030.</summary>
+  </entry>
+  <entry>
+    <title>PFAS : l’eau du robinet, affaire d’État</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/pfas.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/pfas.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Environnement &amp; énergie"/>
+    <summary type="text">En 2021, la pollution autour de l’usine 3M de Zwijndrecht ; en 2023, l’eau de distribution de Chièvres. Deux Régions, une même question : pourquoi les alertes ont-elles mis si longtemps à atteindre les citoyens ?</summary>
+  </entry>
+  <entry>
+    <title>Nucléaire : vingt ans de valse-hésitation</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/nucleaire-valse.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/nucleaire-valse.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Environnement &amp; énergie"/>
+    <summary type="text">Sortie votée en 2003, prolongations au compte-gouttes, réacteurs fermés puis rachat envisagé par l’État en 2026 : la politique nucléaire belge a changé de cap au gré des majorités.</summary>
+  </entry>
+  <entry>
+    <title>Inondations de 2021 : l’alerte arrivée après l’eau</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/inondations-2021.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/inondations-2021.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Environnement &amp; énergie"/>
+    <summary type="text">Trente-neuf morts, des dizaines de milliers de logements endommagés en Wallonie. Les alertes ont été relevées au niveau maximal alors que l’eau montait déjà.</summary>
+  </entry>
+  <entry>
+    <title>Congo : la mémoire en procès</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/memoire-coloniale.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/memoire-coloniale.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Mémoire, éthique &amp; école"/>
+    <summary type="text">Pour la première fois, la justice belge a qualifié de crime contre l’humanité l’enlèvement d’enfants métis au Congo belge. Le Parlement, lui, n’a jamais conclu ses travaux sur le passé colonial.</summary>
+  </entry>
+  <entry>
+    <title>Corruption : le thermomètre au plus bas</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/corruption-integrite.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/corruption-integrite.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Mémoire, éthique &amp; école"/>
+    <summary type="text">69 sur 100 : jamais la Belgique n’avait aussi mal figuré dans l’indice de perception de la corruption. Et le Conseil de l’Europe juge ses progrès trop lents depuis plus de dix ans.</summary>
+  </entry>
+  <entry>
+    <title>École : l’ascenseur social en panne</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/ecole-inegalitaire.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/ecole-inegalitaire.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Mémoire, éthique &amp; école"/>
+    <summary type="text">Un élève francophone de 15 ans sur trois est en retard scolaire. En lecture, la Fédération Wallonie-Bruxelles termine dernière des systèmes de référence de l’étude PIRLS.</summary>
+  </entry>
+  <entry>
+    <title>Dutroux, trente ans après : la faillite fondatrice</title>
+    <link href="https://ouaisfieu.github.io/compte/dossiers/dutroux-30-ans.html" rel="alternate" type="text/html"/>
+    <id>https://ouaisfieu.github.io/compte/dossiers/dutroux-30-ans.html</id>
+    <published>2026-11-08T08:00:00+01:00</published>
+    <updated>2026-11-08T08:00:00+01:00</updated>
+    <category term="Mémoire, éthique &amp; école"/>
+    <summary type="text">Le 20 octobre 1996, quelque 300.000 personnes défilaient en blanc à Bruxelles. L’affaire Dutroux a exposé une police et une justice incapables de coopérer — et accouché de la plus grande réforme policière du pays.</summary>
+  </entry>
+</feed>

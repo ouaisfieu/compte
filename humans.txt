@@ -1,0 +1,10 @@
+/* ÉQUIPE */
+Éditeur : ouaisfieu
+Site : https://github.com/ouaisfieu
+
+/* SITE */
+Dernière mise à jour : 2026-11-08
+Langue : français (Belgique)
+Standards : HTML5, CSS3, JavaScript sans dépendance, schema.org (JSON-LD), Atom
+Police : Newsreader (SIL Open Font License)
+Assistance : recherche et rédaction assistées par une IA (Claude, Anthropic)

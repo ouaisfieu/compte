@@ -1,0 +1,7 @@
+# Le Compte — https://ouaisfieu.github.io/compte/
+# Rappel : pour un site de projet GitHub Pages, seul le robots.txt situé à la racine
+# du domaine (https://ouaisfieu.github.io/robots.txt) est lu par les moteurs.
+# Ce fichier est fourni à titre indicatif ; déclarez le plan du site dans la Search Console.
+User-agent: *
+Allow: /
+Sitemap: https://ouaisfieu.github.io/compte/sitemap.xml
