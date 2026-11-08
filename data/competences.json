@@ -1,0 +1,500 @@
+{
+  "titre": "Répartition simplifiée des compétences en Belgique",
+  "licence": "CC BY 4.0",
+  "source": "https://ouaisfieu.github.io/compte/qui-est-competent.html",
+  "niveaux": {
+    "eu": "Union européenne",
+    "federal": "Fédéral",
+    "regions": "Régions",
+    "communautes": "Communautés",
+    "bruxelles": "Commissions communautaires (Bruxelles)",
+    "provinces": "Provinces",
+    "communes": "Communes et CPAS"
+  },
+  "matieres": [
+    {
+      "id": "allocations-familiales",
+      "matiere": "Allocations familiales",
+      "categorie": "Social",
+      "niveaux": [
+        {
+          "niveau": "Communautés",
+          "role": "Communauté flamande (Groeipakket) et Communauté germanophone"
+        },
+        {
+          "niveau": "Régions",
+          "role": "Région wallonne, qui exerce la compétence transférée par la Communauté française"
+        },
+        {
+          "niveau": "Commissions communautaires (Bruxelles)",
+          "role": "COCOM à Bruxelles (Iriscare)"
+        }
+      ],
+      "note": "Fédérales jusqu’à la sixième réforme de l’État, elles relèvent désormais de quatre systèmes différents."
+    },
+    {
+      "id": "chomage",
+      "matiere": "Chômage",
+      "categorie": "Social",
+      "niveaux": [
+        {
+          "niveau": "Fédéral",
+          "role": "Réglementation et paiement des allocations (ONEM), limitées à deux ans depuis 2026"
+        },
+        {
+          "niveau": "Régions",
+          "role": "Contrôle de la disponibilité et accompagnement (Forem, VDAB, Actiris ; ADG pour les germanophones)"
+        },
+        {
+          "niveau": "Communes et CPAS",
+          "role": "CPAS : revenu d’intégration pour les personnes exclues"
+        }
+      ],
+      "note": "Un même chômeur dépend de trois niveaux de pouvoir."
+    },
+    {
+      "id": "pensions",
+      "matiere": "Pensions",
+      "categorie": "Social",
+      "niveaux": [
+        {
+          "niveau": "Fédéral",
+          "role": "Pension légale des salariés, indépendants et fonctionnaires (Service fédéral des Pensions)"
+        },
+        {
+          "niveau": "Régions",
+          "role": "Aide aux personnes âgées (allocation régionalisée en 2014)"
+        }
+      ],
+      "note": "La pension reste fédérale ; l’aide complémentaire aux aînés ne l’est plus."
+    },
+    {
+      "id": "sante",
+      "matiere": "Santé",
+      "categorie": "Social",
+      "niveaux": [
+        {
+          "niveau": "Fédéral",
+          "role": "Assurance maladie (INAMI), financement des hôpitaux, médicaments, stock stratégique"
+        },
+        {
+          "niveau": "Communautés",
+          "role": "Prévention, vaccination, normes d’agrément, maisons de repos"
+        },
+        {
+          "niveau": "Régions",
+          "role": "Région wallonne pour les matières transférées par la Communauté française (AViQ)"
+        },
+        {
+          "niveau": "Commissions communautaires (Bruxelles)",
+          "role": "COCOM et COCOF à Bruxelles"
+        }
+      ],
+      "note": "Neuf ministres compétents au début du Covid, six aujourd’hui."
+    },
+    {
+      "id": "maisons-de-repos",
+      "matiere": "Maisons de repos",
+      "categorie": "Social",
+      "niveaux": [
+        {
+          "niveau": "Communautés",
+          "role": "Communauté flamande et Communauté germanophone"
+        },
+        {
+          "niveau": "Régions",
+          "role": "Région wallonne"
+        },
+        {
+          "niveau": "Commissions communautaires (Bruxelles)",
+          "role": "COCOM (établissements bicommunautaires) et COCOF"
+        }
+      ],
+      "note": "Entièrement défédéralisées depuis 2014."
+    },
+    {
+      "id": "handicap",
+      "matiere": "Handicap",
+      "categorie": "Social",
+      "niveaux": [
+        {
+          "niveau": "Fédéral",
+          "role": "Allocations de remplacement de revenus et d’intégration"
+        },
+        {
+          "niveau": "Régions",
+          "role": "Accueil et inclusion en Wallonie (AViQ)"
+        },
+        {
+          "niveau": "Communautés",
+          "role": "Flandre (VAPH), Communauté germanophone, enseignement spécialisé"
+        },
+        {
+          "niveau": "Commissions communautaires (Bruxelles)",
+          "role": "Iriscare (COCOM) et service PHARE (COCOF)"
+        }
+      ],
+      "note": "Le Comité européen des droits sociaux a condamné la Belgique en 2013 et 2021."
+    },
+    {
+      "id": "enseignement",
+      "matiere": "Enseignement",
+      "categorie": "Éducation",
+      "niveaux": [
+        {
+          "niveau": "Communautés",
+          "role": "Organisation, programmes, enseignants, diplômes"
+        },
+        {
+          "niveau": "Fédéral",
+          "role": "Début et fin de l’obligation scolaire, conditions minimales de délivrance des diplômes, pensions des enseignants"
+        },
+        {
+          "niveau": "Communes et CPAS",
+          "role": "Pouvoirs organisateurs des écoles communales (les provinces aussi)"
+        }
+      ],
+      "note": "Trois systèmes scolaires, plusieurs réseaux dans chacun."
+    },
+    {
+      "id": "logement",
+      "matiere": "Logement et bail",
+      "categorie": "Cadre de vie",
+      "niveaux": [
+        {
+          "niveau": "Régions",
+          "role": "Logement social, primes, bail d’habitation (depuis 2014), droits d’enregistrement"
+        },
+        {
+          "niveau": "Communes et CPAS",
+          "role": "CPAS, régies et agences immobilières sociales, salubrité"
+        }
+      ],
+      "note": "Les règles du bail diffèrent selon la Région."
+    },
+    {
+      "id": "routes",
+      "matiere": "Routes et autoroutes",
+      "categorie": "Mobilité",
+      "niveaux": [
+        {
+          "niveau": "Régions",
+          "role": "Autoroutes et routes régionales, limitations de vitesse, radars"
+        },
+        {
+          "niveau": "Communes et CPAS",
+          "role": "Voiries communales, zones 30"
+        },
+        {
+          "niveau": "Fédéral",
+          "role": "Code de la route"
+        }
+      ],
+      "note": "Un même trajet peut changer trois fois de gestionnaire."
+    },
+    {
+      "id": "trains",
+      "matiere": "Trains",
+      "categorie": "Mobilité",
+      "niveaux": [
+        {
+          "niveau": "Fédéral",
+          "role": "SNCB et Infrabel, investissements ferroviaires"
+        },
+        {
+          "niveau": "Régions",
+          "role": "Permis d’urbanisme pour les nouvelles infrastructures (le RER en sait quelque chose)"
+        }
+      ],
+      "note": "Le rail est fédéral, mais ses chantiers dépendent des permis régionaux."
+    },
+    {
+      "id": "transports-urbains",
+      "matiere": "Bus, trams et métro",
+      "categorie": "Mobilité",
+      "niveaux": [
+        {
+          "niveau": "Régions",
+          "role": "TEC en Wallonie, De Lijn en Flandre, STIB à Bruxelles"
+        }
+      ],
+      "note": "Trois sociétés, trois tarifications, trois applications."
+    },
+    {
+      "id": "permis",
+      "matiere": "Permis de conduire",
+      "categorie": "Mobilité",
+      "niveaux": [
+        {
+          "niveau": "Fédéral",
+          "role": "Règles du permis et catégories"
+        },
+        {
+          "niveau": "Régions",
+          "role": "Examens et écoles de conduite (depuis 2014)"
+        }
+      ],
+      "note": "Les règles sont fédérales, les examens régionaux."
+    },
+    {
+      "id": "police",
+      "matiere": "Police",
+      "categorie": "Sécurité & justice",
+      "niveaux": [
+        {
+          "niveau": "Fédéral",
+          "role": "Police fédérale, cadre légal, ministre de l’Intérieur"
+        },
+        {
+          "niveau": "Communes et CPAS",
+          "role": "Zones de police locale, autorité du bourgmestre"
+        }
+      ],
+      "note": "Plus de 170 zones de police locale et une police fédérale : la « police intégrée » née de l’affaire Dutroux."
+    },
+    {
+      "id": "justice",
+      "matiere": "Justice et prisons",
+      "categorie": "Sécurité & justice",
+      "niveaux": [
+        {
+          "niveau": "Fédéral",
+          "role": "Cours et tribunaux, parquets, prisons"
+        },
+        {
+          "niveau": "Communautés",
+          "role": "Maisons de justice et aide aux détenus (depuis 2015)"
+        }
+      ],
+      "note": "L’exécution des peines dépend aussi des Communautés."
+    },
+    {
+      "id": "asile",
+      "matiere": "Asile et migration",
+      "categorie": "Sécurité & justice",
+      "niveaux": [
+        {
+          "niveau": "Fédéral",
+          "role": "Séjour (Office des étrangers), asile (CGRA), accueil (Fedasil)"
+        },
+        {
+          "niveau": "Communautés",
+          "role": "Intégration des primo-arrivants (Flandre, Communauté germanophone)"
+        },
+        {
+          "niveau": "Régions",
+          "role": "Parcours d’intégration en Wallonie"
+        },
+        {
+          "niveau": "Commissions communautaires (Bruxelles)",
+          "role": "Parcours d’accueil à Bruxelles (COCOF et COCOM)"
+        },
+        {
+          "niveau": "Union européenne",
+          "role": "Règles communes d’asile (pacte européen)"
+        }
+      ],
+      "note": "L’accueil est fédéral, l’intégration ne l’est pas."
+    },
+    {
+      "id": "nationalite",
+      "matiere": "Nationalité",
+      "categorie": "Citoyenneté",
+      "niveaux": [
+        {
+          "niveau": "Fédéral",
+          "role": "Code de la nationalité, droit d’enregistrement (1.000 € depuis 2025)"
+        },
+        {
+          "niveau": "Communes et CPAS",
+          "role": "Dépôt de la déclaration auprès de l’officier de l’état civil"
+        }
+      ],
+      "note": "Voir notre grand format sur la citoyenneté."
+    },
+    {
+      "id": "elections",
+      "matiere": "Élections",
+      "categorie": "Citoyenneté",
+      "niveaux": [
+        {
+          "niveau": "Fédéral",
+          "role": "Élections fédérales et européennes (vote obligatoire)"
+        },
+        {
+          "niveau": "Régions",
+          "role": "Organisation des élections communales et provinciales (vote facultatif en Flandre depuis 2024)"
+        },
+        {
+          "niveau": "Communes et CPAS",
+          "role": "Bureaux de vote, listes électorales"
+        }
+      ],
+      "note": "Le même geste peut être obligatoire ou facultatif selon le scrutin et la Région."
+    },
+    {
+      "id": "energie",
+      "matiere": "Énergie",
+      "categorie": "Environnement & économie",
+      "niveaux": [
+        {
+          "niveau": "Fédéral",
+          "role": "Nucléaire, réseau de transport (haute tension), éolien en mer, sécurité d’approvisionnement"
+        },
+        {
+          "niveau": "Régions",
+          "role": "Distribution, énergies renouvelables à terre, efficacité énergétique, primes"
+        }
+      ],
+      "note": "Une facture d’électricité dépend de décisions fédérales et régionales."
+    },
+    {
+      "id": "climat",
+      "matiere": "Climat",
+      "categorie": "Environnement & économie",
+      "niveaux": [
+        {
+          "niveau": "Fédéral",
+          "role": "Objectifs nationaux, fiscalité, mobilité ferroviaire"
+        },
+        {
+          "niveau": "Régions",
+          "role": "Bâtiments, transport routier, industrie, agriculture"
+        },
+        {
+          "niveau": "Communes et CPAS",
+          "role": "Plans climat locaux"
+        },
+        {
+          "niveau": "Union européenne",
+          "role": "Objectifs européens répartis entre États"
+        }
+      ],
+      "note": "Quatre gouvernements condamnés ensemble en 2021 dans l’Affaire Climat."
+    },
+    {
+      "id": "environnement",
+      "matiere": "Eau, déchets, pollution",
+      "categorie": "Environnement & économie",
+      "niveaux": [
+        {
+          "niveau": "Régions",
+          "role": "Eau, déchets, permis d’environnement, sols (PFAS)"
+        },
+        {
+          "niveau": "Fédéral",
+          "role": "Normes de produits"
+        },
+        {
+          "niveau": "Communes et CPAS",
+          "role": "Collecte des déchets (souvent via des intercommunales)"
+        }
+      ],
+      "note": "Deux crises PFAS, deux Régions, deux gestions différentes."
+    },
+    {
+      "id": "emploi",
+      "matiere": "Emploi et formation",
+      "categorie": "Environnement & économie",
+      "niveaux": [
+        {
+          "niveau": "Fédéral",
+          "role": "Droit du travail, cotisations sociales"
+        },
+        {
+          "niveau": "Régions",
+          "role": "Aides à l’emploi, placement, formation professionnelle"
+        },
+        {
+          "niveau": "Communautés",
+          "role": "Formation en Flandre et en Communauté germanophone"
+        }
+      ],
+      "note": "La formation professionnelle des francophones bruxellois relève de la COCOF (Bruxelles Formation)."
+    },
+    {
+      "id": "fiscalite",
+      "matiere": "Impôts",
+      "categorie": "Environnement & économie",
+      "niveaux": [
+        {
+          "niveau": "Fédéral",
+          "role": "Impôt des personnes physiques et des sociétés, TVA, accises"
+        },
+        {
+          "niveau": "Régions",
+          "role": "Droits de succession et d’enregistrement, précompte immobilier, taxe de circulation, additionnels régionaux"
+        },
+        {
+          "niveau": "Provinces",
+          "role": "Centimes additionnels au précompte immobilier"
+        },
+        {
+          "niveau": "Communes et CPAS",
+          "role": "Additionnels à l’impôt des personnes physiques et au précompte immobilier, taxes locales"
+        }
+      ],
+      "note": "Un seul avertissement-extrait de rôle peut financer trois niveaux de pouvoir."
+    },
+    {
+      "id": "agriculture",
+      "matiere": "Agriculture et bien-être animal",
+      "categorie": "Environnement & économie",
+      "niveaux": [
+        {
+          "niveau": "Régions",
+          "role": "Politique agricole, bien-être animal (depuis 2014)"
+        },
+        {
+          "niveau": "Fédéral",
+          "role": "Sécurité de la chaîne alimentaire (AFSCA)"
+        },
+        {
+          "niveau": "Union européenne",
+          "role": "Politique agricole commune"
+        }
+      ],
+      "note": "Le bien-être animal a trois ministres régionaux."
+    },
+    {
+      "id": "culture",
+      "matiere": "Culture et médias",
+      "categorie": "Éducation",
+      "niveaux": [
+        {
+          "niveau": "Communautés",
+          "role": "Culture, médias publics (RTBF, VRT, BRF), jeunesse, sport"
+        },
+        {
+          "niveau": "Fédéral",
+          "role": "Télécommunications, droit d’auteur"
+        },
+        {
+          "niveau": "Communes et CPAS",
+          "role": "Infrastructures culturelles et sportives locales"
+        }
+      ],
+      "note": "Trois audiovisuels publics pour un pays."
+    },
+    {
+      "id": "international",
+      "matiere": "Affaires étrangères et défense",
+      "categorie": "Citoyenneté",
+      "niveaux": [
+        {
+          "niveau": "Fédéral",
+          "role": "Diplomatie, défense, politique commerciale (avec l’UE)"
+        },
+        {
+          "niveau": "Régions",
+          "role": "Relations internationales et commerce extérieur dans leurs compétences"
+        },
+        {
+          "niveau": "Communautés",
+          "role": "Relations internationales dans leurs compétences"
+        }
+      ],
+      "note": "Chaque entité peut conclure des traités dans ses matières."
+    }
+  ]
+}

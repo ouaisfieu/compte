@@ -1,0 +1,1800 @@
+{
+  "titre": "Le Compte — inventaire des griefs contre l’État belge",
+  "licence": "CC BY 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by/4.0/deed.fr",
+  "source": "https://ouaisfieu.github.io/compte/",
+  "mis_a_jour": "2026-11-08",
+  "griefs": [
+    {
+      "slug": "lasagne-institutionnelle",
+      "titre": "Six gouvernements, sept parlements : la lasagne est servie",
+      "titre_court": "La lasagne institutionnelle",
+      "rubrique": "Institutions & démocratie",
+      "chapo": "Depuis 1970, six réformes de l’État ont empilé les niveaux de pouvoir. Résultat : 46 ministres, neuf ministres compétents pour la santé au début du Covid, et un citoyen qui ne sait plus à quel guichet frapper.",
+      "chiffre_cle": "46 — ministres répartis entre six gouvernements (avril 2025)",
+      "niveaux_de_pouvoir": [
+        "Fédéral",
+        "Régions",
+        "Communautés",
+        "Bruxelles (Région, COCOM, COCOF)",
+        "Communes et CPAS"
+      ],
+      "statut": "Structurel",
+      "gravite": 3,
+      "indice_de_brol": 5,
+      "condamnations": [],
+      "mots_cles": [
+        "fédéralisme",
+        "réforme de l’État",
+        "ministres",
+        "compétences",
+        "Covid"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/lasagne-institutionnelle.html",
+      "sources": [
+        {
+          "editeur": "UCLouvain (CORE)",
+          "date": "2025-02-07",
+          "titre": "Le fédéralisme belge en chiffres – 1. Simplifier pour amplifier",
+          "url": "https://www.uclouvain.be/en/research-institutes/lidam/core/news/le-federalisme-belge-en-chiffres-simplifier-pour-amplifier"
+        },
+        {
+          "editeur": "La DH",
+          "date": "2025-04-12",
+          "titre": "250 000 euros par an, sans compter les frais… voici les salaires de nos ministres",
+          "url": "https://www.dhnet.be/actu/belgique/2025/04/12/250-000-euros-par-an-sans-compter-les-frais-voici-les-salaires-de-nos-ministres-LVA3G7ZZC5F3DLIWHAFUFPBRIY/"
+        },
+        {
+          "editeur": "La Libre",
+          "date": "2020-03-04",
+          "titre": "Coronavirus : qui sont les neuf ministres de la Santé en Belgique ?",
+          "url": "https://www.lalibre.be/belgique/politique-belge/2020/03/04/coronavirus-qui-sont-les-neuf-ministres-de-la-sante-en-belgique-DWYSED32MZCUVNOL2UVNMCJCG4/"
+        },
+        {
+          "editeur": "L’Avenir",
+          "date": "2021-04-23",
+          "titre": "Maggie De Block : « Un bateau ne prend pas la mer avec 9 capitaines »",
+          "url": "https://www.lavenir.net/cnt/dmf20210423_01574718/maggie-de-block-un-bateau-ne-prend-pas-la-mer-avec-9-capitaines"
+        },
+        {
+          "editeur": "CRISP",
+          "date": "2021-01-14",
+          "titre": "Santé : une répartition complexe des compétences (J. Faniel)",
+          "url": "https://www.crisp.be/crisp/wp-content/uploads/analyses/2021-01-14_ACL-Faniel_J-2021-Sante_conjuguee-Sante_une_repartition_complexe_des_competences.pdf"
+        },
+        {
+          "editeur": "Le Spécialiste",
+          "date": "2024",
+          "titre": "Qui sont nos 6 ministres de la Santé ?",
+          "url": "https://www.lespecialiste.be/fr/actualites/qui-sont-nos-6-ministres-de-la-sante.html"
+        }
+      ]
+    },
+    {
+      "slug": "formations-sans-fin",
+      "titre": "Former un gouvernement, ce sport national",
+      "titre_court": "Formations sans fin",
+      "rubrique": "Institutions & démocratie",
+      "chapo": "541 jours en 2010-2011, 494 en 2019-2020, 239 en 2024-2025 : la Belgique passe une part considérable de sa vie politique à négocier. Et en novembre 2026, la coalition Arizona vacille déjà sur son budget.",
+      "chiffre_cle": "1.607 — jours de formation fédérale cumulés depuis 2007",
+      "niveaux_de_pouvoir": [
+        "Fédéral"
+      ],
+      "statut": "Structurel",
+      "gravite": 3,
+      "indice_de_brol": 5,
+      "condamnations": [],
+      "mots_cles": [
+        "formation du gouvernement",
+        "affaires courantes",
+        "Arizona",
+        "De Wever",
+        "record"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/formations-sans-fin.html",
+      "sources": [
+        {
+          "editeur": "VRT NWS",
+          "date": "2025-11-28",
+          "titre": "Formatie Brussel evenaart record van 541 dagen",
+          "url": "https://www.vrt.be/vrtnws/nl/2025/11/28/formatie-brussel-record-541-dagen/"
+        },
+        {
+          "editeur": "Commission royale d’histoire (BelElite)",
+          "date": "2025",
+          "titre": "Gouvernements nationaux et fédéraux : dates",
+          "url": "https://www.commissionroyalehistoire.be/belelite/nl/gov/governmentsoverview/fed"
+        },
+        {
+          "editeur": "Eunews",
+          "date": "2025-02-03",
+          "titre": "Belgium finally has a government: conservative Bart De Wever is the new premier",
+          "url": "https://www.eunews.it/en/2025/02/03/belgium-finally-has-a-government-conservative-bart-de-wever-is-the-new-premier/"
+        },
+        {
+          "editeur": "RTBF",
+          "date": "2026-11-02",
+          "titre": "Budget et crise politique : une semaine capitale pour l’Arizona",
+          "url": "https://www.rtbf.be/article/budget-et-crise-politique-une-semaine-capitale-pour-l-arizona-11809238"
+        },
+        {
+          "editeur": "L’Avenir",
+          "date": "2026-11-06",
+          "titre": "Démission de Bart De Wever refusée et sursis de 10 jours pour le budget",
+          "url": "https://www.lavenir.net/actu/belgique/politique/2026/11/06/demission-de-bart-de-wever-refusee-et-sursis-de-10-jours-pour-le-budget-ce-quil-faut-retenir-de-ce-vendredi-a-haute-intensite-politique-ODH4VWTH2NA3NOCQJGQRFEH774/"
+        },
+        {
+          "editeur": "L’Avenir",
+          "date": "2026-11-04",
+          "titre": "L’Arizona en crise : et revoilà le spectre des « douzièmes provisoires »",
+          "url": "https://www.lavenir.net/actu/belgique/politique/2026/11/04/larizona-en-crise-et-revoila-le-spectre-des-douziemes-provisoires-DT3DEKLKDBBGFMDA4TPBQCAD4E/"
+        }
+      ]
+    },
+    {
+      "slug": "bruxelles-en-apnee",
+      "titre": "Bruxelles, 613 jours en apnée",
+      "titre_court": "Bruxelles en apnée",
+      "rubrique": "Institutions & démocratie",
+      "chapo": "Il a fallu attendre le 14 février 2026 pour que la Région-capitale retrouve un gouvernement de plein exercice. Pendant ce temps, la dette régionale grossissait d’environ 100 millions d’euros par mois.",
+      "chiffre_cle": "613 — jours sans gouvernement bruxellois de plein exercice",
+      "niveaux_de_pouvoir": [
+        "Bruxelles (Région, COCOM, COCOF)"
+      ],
+      "statut": "Partiellement corrigé",
+      "gravite": 4,
+      "indice_de_brol": 5,
+      "condamnations": [],
+      "mots_cles": [
+        "Bruxelles",
+        "formation",
+        "dette régionale",
+        "Dilliès",
+        "record"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/bruxelles-en-apnee.html",
+      "sources": [
+        {
+          "editeur": "VRT NWS",
+          "date": "2026-02-14",
+          "titre": "Le nouveau gouvernement bruxellois, mené par Boris Dilliès (MR), a prêté serment",
+          "url": "https://www.vrt.be/vrtnws/fr/2026/02/14/le-nouveau-gouvernement-bruxellois-mene-par-le-ministre-preside/"
+        },
+        {
+          "editeur": "VRT NWS",
+          "date": "2026-02-10",
+          "titre": "Le « conclave » pour la formation d’un gouvernement bruxellois a débuté",
+          "url": "https://www.vrt.be/vrtnws/fr/2026/02/10/le-conclave-pour-la-formation-d-un-gouvernement-bruxellois-deb/"
+        },
+        {
+          "editeur": "Brussels Times",
+          "date": "2025-12-02",
+          "titre": "542 days: Brussels breaks Belgian record for longest period without a government",
+          "url": "https://brusselstimes.com/brussels/1862716/542-days-brussels-breaks-belgian-record-for-longest-period-without-a-government/"
+        },
+        {
+          "editeur": "La Libre (via IBSA)",
+          "date": "2026-01-22",
+          "titre": "Dix chiffres sur l’état préoccupant de la Région bruxelloise",
+          "url": "https://ibsa.brussels/sites/default/files/2026-02/20260122_LaLibreBelgique_10%20chiffres%20%C3%A9tat%20pr%C3%A9occupant%20RBC.pdf"
+        },
+        {
+          "editeur": "Belga News Agency",
+          "date": "2025-11",
+          "titre": "Brussels equals government formation record amid protests against continuing deadlock",
+          "url": "https://www.belganewsagency.eu/brussels-equals-government-formation-record-protest-against-continuing-deadlock"
+        },
+        {
+          "editeur": "L’Avenir",
+          "date": "2026-04-17",
+          "titre": "La Région ajuste son budget 2026 « sans nouvelle taxe »… et va faire face à une dégradation de sa notation par Moody’s",
+          "url": "https://www.lavenir.net/actu/belgique/politique/2026/04/17/la-region-ajuste-son-budget-2026-sans-nouvelle-taxe-et-va-faire-face-a-une-degradation-de-sa-notation-par-moodys-CWUTVSPKDZBBFFHHASAAVZT4EY/"
+        },
+        {
+          "editeur": "Wikipédia",
+          "date": "2026",
+          "titre": "Gouvernement Dilliès",
+          "url": "https://fr.wikipedia.org/wiki/Gouvernement_Dilli%C3%A8s"
+        }
+      ]
+    },
+    {
+      "slug": "prisons-surpeuplees",
+      "titre": "Prisons : 13.624 détenus pour 11.064 places",
+      "titre_court": "Prisons surpeuplées",
+      "rubrique": "Justice & État de droit",
+      "chapo": "Matelas au sol, astreintes impayées, unités modulaires promises pour 2028 : condamnée par Strasbourg dès 2014, la Belgique n’a jamais résorbé la surpopulation carcérale. Elle s’aggrave.",
+      "chiffre_cle": "593 — détenus dormant sur un matelas au sol (octobre 2026)",
+      "niveaux_de_pouvoir": [
+        "Fédéral",
+        "Pouvoir judiciaire"
+      ],
+      "statut": "En cours",
+      "gravite": 5,
+      "indice_de_brol": 2,
+      "condamnations": [
+        "CEDH, Vasilescu c. Belgique (2014)",
+        "CEDH, W.D. c. Belgique (2016)",
+        "Cours d’appel de Liège, Bruxelles et Mons (astreintes)",
+        "Tribunal civil de Gand (2026)"
+      ],
+      "mots_cles": [
+        "prisons",
+        "surpopulation carcérale",
+        "CEDH",
+        "astreintes",
+        "détenus"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/prisons-surpeuplees.html",
+      "sources": [
+        {
+          "editeur": "VRT NWS",
+          "date": "2026-10-20",
+          "titre": "300 conteneurs aménagés destinés à contrer rapidement la surpopulation… pas avant 2028",
+          "url": "https://www.vrt.be/vrtnws/fr/2026/10/20/300-conteneurs-amenages-destines-a-contrer-rapidement-la-surpop/"
+        },
+        {
+          "editeur": "La Libre",
+          "date": "2026-06-15",
+          "titre": "Rendez-vous dans dix ans avec 18 000 détenus ? La Belgique doit « réduire durablement » le nombre de personnes incarcérées",
+          "url": "https://www.lalibre.be/belgique/judiciaire/2026/06/15/rendez-vous-dans-dix-ans-avec-18-000-detenus-la-belgique-doit-reduire-durablement-le-nombre-de-personnes-incarcerees-RSN54MPTDBBCPK4LXRSGVBUHEE/"
+        },
+        {
+          "editeur": "L’Avenir",
+          "date": "2026-04-20",
+          "titre": "L’État belge accumule les astreintes et refuse de les payer : plusieurs centaines de millions d’euros en jeu",
+          "url": "https://www.lavenir.net/actu/2026/04/20/letat-belge-accumule-les-astreintes-et-se-refuse-a-les-payer-plusieurs-centaines-de-millions-deuros-en-jeu-W3HEG3ZQVBDNVMH6U4HTT3TBKE/"
+        },
+        {
+          "editeur": "VRT NWS",
+          "date": "2026-09-11",
+          "titre": "La justice gantoise contraint l’État belge à réduire la surpopulation",
+          "url": "https://www.vrt.be/vrtnws/fr/2026/09/11/la-justice-gantoise-contraint-l-etat-belge-a-reduire-la-surpopul/"
+        },
+        {
+          "editeur": "L’Avenir (Belga)",
+          "date": "2026-08-01",
+          "titre": "Surpopulation carcérale : le gouvernement souhaite créer 1.300 places supplémentaires en prison",
+          "url": "https://www.lavenir.net/actu/belgique/politique/2026/08/01/surpopulation-carcerale-le-gouvernement-souhaite-creer-1300-places-supplementaires-en-prison-DBGVBQJTWZGQNDUVQBRVY5HXQU/"
+        },
+        {
+          "editeur": "RTBF",
+          "date": "2025",
+          "titre": "L’accès aux soins de santé en prison est gravement défaillant, dénoncent les bâtonniers",
+          "url": "https://www.rtbf.be/article/l-acces-aux-soins-de-sante-en-prison-est-gravement-defaillant-denoncent-les-batonniers-11645676"
+        },
+        {
+          "editeur": "BX1",
+          "date": "2026",
+          "titre": "Surpopulation carcérale : la cheffe de l’administration pénitentiaire demande l’aide de la police ou de l’armée",
+          "url": "https://bx1.be/categories/news/surpopulation-carcerale-la-cheffe-de-ladministration-penitentiaire-demande-laide-de-la-police-ou-de-larmee/"
+        },
+        {
+          "editeur": "La DH (Belga)",
+          "date": "2026-04-20",
+          "titre": "La grève à la prison de Haren est terminée",
+          "url": "https://www.dhnet.be/dernieres-depeches/2026/04/20/surpopulation-carcerale-la-greve-a-la-prison-de-haren-est-terminee-forte-mobilisation-du-personnel-releve-le-slfp-PNVSNMJFH5CBHM6A5I4YMKWBCE/"
+        }
+      ]
+    },
+    {
+      "slug": "jugements-non-executes",
+      "titre": "Condamné, et alors ? L’État qui n’exécute pas ses jugements",
+      "titre_court": "Jugements non exécutés",
+      "rubrique": "Justice & État de droit",
+      "chapo": "Plus de 16.000 condamnations pour défaut d’accueil des demandeurs d’asile, des centaines de millions d’euros d’astreintes dans les prisons : l’exécutif belge laisse des décisions de justice sans suite. Le procureur général de Bruxelles parle d’« attaque frontale contre la séparation des pouvoirs ».",
+      "chiffre_cle": "16.000+ — condamnations de l’État pour défaut d’accueil depuis janvier 2022",
+      "niveaux_de_pouvoir": [
+        "Fédéral",
+        "Pouvoir judiciaire"
+      ],
+      "statut": "En cours",
+      "gravite": 5,
+      "indice_de_brol": 3,
+      "condamnations": [
+        "CEDH, Camara c. Belgique (2023)",
+        "CEDH, M.V. et autres c. Belgique (2026)",
+        "Tribunaux du travail (milliers de décisions)",
+        "Cours d’appel (astreintes prisons)"
+      ],
+      "mots_cles": [
+        "État de droit",
+        "séparation des pouvoirs",
+        "astreintes",
+        "Fedasil",
+        "CEDH"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/jugements-non-executes.html",
+      "sources": [
+        {
+          "editeur": "BX1",
+          "date": "2025-10-02",
+          "titre": "Crise de l’accueil : Anneleen Van Bossuyt défie la justice, Frédéric Van Leeuw alerte sur l’État de droit",
+          "url": "https://bx1.be/categories/news/crise-de-laccueil-en-belgique-aneleen-van-bossuyt-defie-la-justice-frederic-van-leeuw-alerte-sur-letat-de-droit/"
+        },
+        {
+          "editeur": "L’Avenir",
+          "date": "2026-04-20",
+          "titre": "L’État belge accumule les astreintes et refuse de les payer",
+          "url": "https://www.lavenir.net/actu/2026/04/20/letat-belge-accumule-les-astreintes-et-se-refuse-a-les-payer-plusieurs-centaines-de-millions-deuros-en-jeu-W3HEG3ZQVBDNVMH6U4HTT3TBKE/"
+        },
+        {
+          "editeur": "L’Avenir (Belga)",
+          "date": "2026-04-09",
+          "titre": "La Belgique condamnée par la CEDH pour avoir laissé à la rue des demandeurs d’asile",
+          "url": "https://www.lavenir.net/actu/belgique/2026/04/09/la-belgique-condamnee-par-la-cedh-pour-avoir-laisse-a-la-rue-des-demandeurs-dasile-GEIR7ONNDFCADCNOBTB5MY3JJI/"
+        },
+        {
+          "editeur": "UCLouvain (CEDIE)",
+          "date": "2023-08",
+          "titre": "Cour eur. D.H., 18 juillet 2023, Camara c. Belgique, req. n° 49255/22",
+          "url": "https://www.uclouvain.be/fr/instituts-recherche/juri/cedie/news/paluku-aout-2023"
+        },
+        {
+          "editeur": "Diversité Europe",
+          "date": "2026-04",
+          "titre": "Arrêt M.V. et autres c. Belgique : migrants sans hébergement ni assistance matérielle pendant une longue période",
+          "url": "https://diversite-europe.eu/wp-content/uploads/2026/04/Arret-M.V.-et-autres-c.-Belgique-Migrants-sans-hebergement-ni-assistance-materielle-pendant-une-longue-periode.pdf"
+        },
+        {
+          "editeur": "La Libre",
+          "date": "2026-04-22",
+          "titre": "L’État doit 4 millions d’euros d’astreinte pour l’accueil des demandeurs d’asile",
+          "url": "https://www.lalibre.be/belgique/societe/2026/04/22/letat-doit-4-millions-deuros-dastreinte-pour-laccueil-des-demandeurs-dasilesi-je-payais-ces-montants-je-devrais-fermer-dinnombrables-centres-HHF2EGLFYVF6LDWJXBRAO6DTEM/"
+        },
+        {
+          "editeur": "BX1",
+          "date": null,
+          "titre": "Un collectif d’ONG autorisé à saisir 2,9 millions d’euros sur les comptes de Fedasil",
+          "url": "https://bx1.be/categories/news/un-collectif-dong-autorise-a-saisir-29-millions-deuros-sur-les-comptes-de-fedasil/"
+        },
+        {
+          "editeur": "RTBF",
+          "date": "2023",
+          "titre": "Quand l’État s’assied sur des milliers de décisions de justice",
+          "url": "https://www.rtbf.be/article/quand-l-etat-s-assied-sur-des-milliers-de-decisions-de-justice-11121583"
+        }
+      ]
+    },
+    {
+      "slug": "palais-de-justice",
+      "titre": "Palais de justice : quarante ans sous échafaudages",
+      "titre_court": "Le palais aux échafaudages",
+      "rubrique": "Justice & État de droit",
+      "chapo": "Posés en 1984, les échafaudages du Palais de justice de Bruxelles sont devenus un monument à part entière — au point de devoir eux-mêmes être réparés. Fin des travaux extérieurs annoncée : 2035.",
+      "chiffre_cle": "1984 — année de pose des premiers échafaudages",
+      "niveaux_de_pouvoir": [
+        "Fédéral"
+      ],
+      "statut": "Structurel",
+      "gravite": 2,
+      "indice_de_brol": 3,
+      "condamnations": [],
+      "mots_cles": [
+        "Palais de justice",
+        "échafaudages",
+        "Régie des Bâtiments",
+        "patrimoine",
+        "Bruxelles"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/palais-de-justice.html",
+      "sources": [
+        {
+          "editeur": "Brussels Times",
+          "date": "2025-09-26",
+          "titre": "Deadline pushed back again as Palais de Justice slowly breaks free of scaffolding",
+          "url": "https://www.brusselstimes.com/1764144/brussels-palais-de-justice-slowly-breaks-free-from-scaffolding-but-end-date-pushed-back-to-2035"
+        },
+        {
+          "editeur": "La Libre",
+          "date": "2021-01-02",
+          "titre": "Les échafaudages seront retirés de l’entrée du palais de justice en 2023",
+          "url": "https://www.lalibre.be/belgique/judiciaire/2021/01/02/les-echafaudages-seront-retires-de-lentree-du-palais-de-justice-en-2023-JU2ZCWGQVFBPFFD4S5RUEHCYNU/"
+        },
+        {
+          "editeur": "La DH",
+          "date": "2022-04-29",
+          "titre": "Les rénovations du Palais de justice bruxellois encore reportées : 15 % des pierres sont à changer",
+          "url": "https://www.dhnet.be/regions/bruxelles/2022/04/29/les-renovations-du-palais-de-justice-bruxellois-encore-reportees-15-des-pierres-sont-a-changer-L6S6BQPMBNBFFDYYB6KG45QZHI/"
+        },
+        {
+          "editeur": "RTBF",
+          "date": "2021",
+          "titre": "Investigation : le Palais de justice de Bruxelles condamné aux travaux forcés à perpétuité",
+          "url": "https://www.rtbf.be/article/investigation-le-palais-de-justice-de-bruxelles-condamne-aux-travaux-forces-a-perpetuite-10811575"
+        },
+        {
+          "editeur": "Travel Tomorrow",
+          "date": "2024",
+          "titre": "Brussels Palais de Justice’s metal curtain lifted after 40 years",
+          "url": "https://traveltomorrow.com/brussels-palais-de-justices-metal-curtain-lifted-after-40-years/"
+        },
+        {
+          "editeur": "Wikipedia",
+          "date": null,
+          "titre": "Law Courts of Brussels",
+          "url": "https://en.wikipedia.org/wiki/Law_Courts_of_Brussels"
+        }
+      ]
+    },
+    {
+      "slug": "crise-accueil",
+      "titre": "Asile : des milliers de condamnations et des nuits dehors",
+      "titre_court": "La crise de l’accueil",
+      "rubrique": "Asile & droits fondamentaux",
+      "chapo": "Depuis l’automne 2021, des demandeurs d’asile dorment à la rue à Bruxelles alors que la loi impose de les héberger. Les juges belges et la Cour de Strasbourg condamnent ; l’exécutif durcit.",
+      "chiffre_cle": "2.200+ — mesures provisoires de la CEDH visant la Belgique depuis 2023",
+      "niveaux_de_pouvoir": [
+        "Fédéral"
+      ],
+      "statut": "En cours",
+      "gravite": 5,
+      "indice_de_brol": 3,
+      "condamnations": [
+        "CEDH, Camara c. Belgique (2023)",
+        "CEDH, M.V. et autres c. Belgique (2026)",
+        "Cour constitutionnelle (annulation partielle, 2026)",
+        "Tribunaux du travail"
+      ],
+      "mots_cles": [
+        "asile",
+        "Fedasil",
+        "accueil",
+        "demandeurs de protection internationale",
+        "CEDH"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/crise-accueil.html",
+      "sources": [
+        {
+          "editeur": "L’Avenir (Belga)",
+          "date": "2026-04-09",
+          "titre": "La Belgique condamnée par la CEDH pour avoir laissé à la rue des demandeurs d’asile",
+          "url": "https://www.lavenir.net/actu/belgique/2026/04/09/la-belgique-condamnee-par-la-cedh-pour-avoir-laisse-a-la-rue-des-demandeurs-dasile-GEIR7ONNDFCADCNOBTB5MY3JJI/"
+        },
+        {
+          "editeur": "VRT NWS",
+          "date": "2026-05-22",
+          "titre": "La Cour constitutionnelle annule la suspension de l’aide financière",
+          "url": "https://www.vrt.be/vrtnws/fr/2026/05/22/la-cour-constitutionnelle-annule-la-suspension-de-l-aide-financi/"
+        },
+        {
+          "editeur": "Caritas International",
+          "date": "2025",
+          "titre": "Fourth year of the non-reception policy: more than 10,000 judgements against the Belgian state and 3,000 people on the streets",
+          "url": "https://www.caritasinternational.be/en/asylum-migration-en/fourth-year-of-the-non-reception-policy-more-than-10000-judgements-against-the-belgian-state-and-3000-people-on-the-streets/"
+        },
+        {
+          "editeur": "BX1",
+          "date": "2025-10-02",
+          "titre": "Crise de l’accueil : Anneleen Van Bossuyt défie la justice",
+          "url": "https://bx1.be/categories/news/crise-de-laccueil-en-belgique-aneleen-van-bossuyt-defie-la-justice-frederic-van-leeuw-alerte-sur-letat-de-droit/"
+        },
+        {
+          "editeur": "Cour constitutionnelle",
+          "date": "2026",
+          "titre": "Arrêt n° 23/2026 — communiqué de presse",
+          "url": "https://fr.const-court.be/public/f/2026/2026-023f-info.pdf"
+        },
+        {
+          "editeur": "UCLouvain (CEDIE)",
+          "date": "2023-08",
+          "titre": "Camara c. Belgique, 18 juillet 2023",
+          "url": "https://www.uclouvain.be/fr/instituts-recherche/juri/cedie/news/paluku-aout-2023"
+        }
+      ]
+    },
+    {
+      "slug": "police-controle",
+      "titre": "Police : qui contrôle les contrôleurs ?",
+      "titre_court": "Le contrôle de la police",
+      "rubrique": "Asile & droits fondamentaux",
+      "chapo": "Mawda, 2 ans, tuée par une balle policière en 2018 ; Jozef Chovanec, mort après une intervention à l’aéroport de Charleroi la même année. Deux drames qui ont mis en lumière les failles du contrôle de la police.",
+      "chiffre_cle": "2.783 — plaintes recevables au Comité P en 2025 (+9,4 %)",
+      "niveaux_de_pouvoir": [
+        "Fédéral",
+        "Communes et CPAS",
+        "Pouvoir judiciaire"
+      ],
+      "statut": "Structurel",
+      "gravite": 4,
+      "indice_de_brol": 3,
+      "condamnations": [
+        "Comité de l’ONU pour l’élimination de la discrimination raciale (observations, 2021)"
+      ],
+      "mots_cles": [
+        "police",
+        "Comité P",
+        "Mawda",
+        "Chovanec",
+        "profilage ethnique"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/police-controle.html",
+      "sources": [
+        {
+          "editeur": "RTBF",
+          "date": "2021-11-04",
+          "titre": "Décès de la petite Mawda : la cour d’appel réduit la peine du policier",
+          "url": "https://www.rtbf.be/article/deces-de-la-petite-mawda-la-cour-d-appel-reduit-la-peine-du-policier-10872867"
+        },
+        {
+          "editeur": "RTBF",
+          "date": "2026-03-16",
+          "titre": "Affaire Chovanec : la cour d’appel de Mons prononce un non-lieu pour les 31 inculpés",
+          "url": "https://www.rtbf.be/article/affaire-chovanec-la-cour-d-appel-de-mons-prononce-un-non-lieu-pour-les-31-inculpes-11695295"
+        },
+        {
+          "editeur": "VRT NWS",
+          "date": "2024-10-08",
+          "titre": "Widow of Slovak businessman and Slovakian state to appeal against dismissal",
+          "url": "https://www.vrt.be/vrtnws/en/2024/10/08/widow-of-slovak-business-and-slovakian-state-to-appeal-against-d/"
+        },
+        {
+          "editeur": "Brussels Times",
+          "date": "2026-06-09",
+          "titre": "Complaints to police watchdog committee up by 10% in 2025",
+          "url": "https://www.brusselstimes.com/belgium/2181622/complaints-to-police-watchdog-committee-up-by-10-in-2025/"
+        },
+        {
+          "editeur": "BX1",
+          "date": "2021-05-01",
+          "titre": "Un comité de l’ONU préoccupé par les violences policières et le profilage en Belgique",
+          "url": "https://bx1.be/categories/news/un-comite-de-lonu-preoccupe-par-les-violences-policieres-et-le-profilage-en-belgique/"
+        },
+        {
+          "editeur": "La Libre",
+          "date": "2026-06-09",
+          "titre": "Le Comité P plaide pour l’application systématique d’un « réflexe enfant »",
+          "url": "https://www.lalibre.be/belgique/2026/06/09/le-comite-p-plaide-pour-lapplication-systematique-dun-reflexe-enfant-lors-des-interventions-policieres-5MXRODJX6ZGX7DETV2JNBW6LLM/"
+        },
+        {
+          "editeur": "ONU (CERD)",
+          "date": "2021",
+          "titre": "Observations finales concernant la Belgique (CERD/C/BEL/CO/20-22)",
+          "url": "https://digitallibrary.un.org/record/3929866/files/CERD_C_BEL_CO_20-22-FR.pdf"
+        }
+      ]
+    },
+    {
+      "slug": "attentats-22-mars",
+      "titre": "22 mars 2016 : les failles d’un État « non défaillant »",
+      "titre_court": "Les failles du 22 mars",
+      "rubrique": "Sécurité",
+      "chapo": "Trente-deux morts le jour même, trente-cinq au total. La commission d’enquête parlementaire a refusé de parler d’État défaillant — mais a décrit des services qui ne se parlaient pas assez.",
+      "chiffre_cle": "35 — morts, selon le bilan établi en 2023",
+      "niveaux_de_pouvoir": [
+        "Fédéral",
+        "Communes et CPAS",
+        "Pouvoir judiciaire"
+      ],
+      "statut": "Historique",
+      "gravite": 5,
+      "indice_de_brol": 4,
+      "condamnations": [],
+      "mots_cles": [
+        "attentats",
+        "22 mars",
+        "terrorisme",
+        "commission d’enquête",
+        "renseignement"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/attentats-22-mars.html",
+      "sources": [
+        {
+          "editeur": "BX1",
+          "date": "2017-06-08",
+          "titre": "Attentats de Bruxelles : la commission d’enquête dévoile son rapport sur la lutte antiterroriste",
+          "url": "https://bx1.be/categories/news/attentats-de-bruxelles-la-commission-denquete-devoile-son-rapport-sur-la-lutte-anti-terroriste/"
+        },
+        {
+          "editeur": "La Libre",
+          "date": "2023-07-25",
+          "titre": "Le bilan total des attentats du 22 mars 2016 porté à 35 morts",
+          "url": "https://www.lalibre.be/belgique/judiciaire/2023/07/25/le-bilan-total-des-attentats-du-22-mars-2016-porte-a-36-morts-VANDN5DONFCY7EXHS6UCTFUP4A/"
+        },
+        {
+          "editeur": "VRT NWS",
+          "date": "2023-07-26",
+          "titre": "Verdict du procès des attentats : six accusés coupables",
+          "url": "https://www.vrt.be/vrtnws/fr/2023/07/26/verdict-du-proces-des-attentats-six-accuses-coupables-sur-tout/"
+        },
+        {
+          "editeur": "Paris Match Belgique",
+          "date": "2023-09-15",
+          "titre": "Procès des attentats de Bruxelles : les peines sont tombées",
+          "url": "https://www.parismatch.be/actualites/societe/2023/09/15/attentats-a-bruxelles-le-jury-et-la-cour-sont-parvenus-a-un-verdict-la-sentence-pour-les-huit-coupables-attendue-dun-instant-a-lautre-5WHF4X4TJZBVHCVAFNCH2I6ZSU/"
+        },
+        {
+          "editeur": "Chambre des représentants",
+          "date": null,
+          "titre": "Brochure : commission d’enquête « Attentats terroristes »",
+          "url": "https://www.diekammer.be/kvvcr/pdf_sections/news/0000006781/Brochure_Attentats_Terroristes.pdf"
+        },
+        {
+          "editeur": "Life4Brussels",
+          "date": "2019-02-22",
+          "titre": "Rapport de la conférence-débat du 22 février 2019",
+          "url": "https://www.life4brussels.org/wp-content/uploads/2019/05/Rapport-confe%CC%8Brence-de%CC%8Bbat-22-fevrier-2019.pdf"
+        }
+      ]
+    },
+    {
+      "slug": "extradition-oubliee",
+      "titre": "16 octobre 2023 : l’extradition qui dormait dans un tiroir",
+      "titre_court": "L’extradition oubliée",
+      "rubrique": "Sécurité",
+      "chapo": "Deux supporters suédois abattus à Bruxelles par un homme que la Tunisie réclamait depuis 2022. La demande d’extradition avait été perdue de vue pendant plus d’un an.",
+      "chiffre_cle": "1 an+ — pendant lequel la demande tunisienne est restée sans suite",
+      "niveaux_de_pouvoir": [
+        "Fédéral",
+        "Pouvoir judiciaire"
+      ],
+      "statut": "Historique",
+      "gravite": 4,
+      "indice_de_brol": 3,
+      "condamnations": [],
+      "mots_cles": [
+        "attentat",
+        "extradition",
+        "Van Quickenborne",
+        "parquet de Bruxelles",
+        "Tunisie"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/extradition-oubliee.html",
+      "sources": [
+        {
+          "editeur": "Wikipedia",
+          "date": null,
+          "titre": "2023 Brussels shooting",
+          "url": "https://en.wikipedia.org/wiki/2023_Brussels_shooting"
+        },
+        {
+          "editeur": "Paris Match Belgique",
+          "date": "2023-10-22",
+          "titre": "Attentat de Bruxelles : la demande d’extradition d’Abdesalem Lassoued a été perdue de vue pendant plus d’un an",
+          "url": "https://www.parismatch.be/actualites/politique/2023/10/22/attentat-de-bruxelles-la-demande-dextradition-dabdesalem-lassoued-a-ete-perdue-de-vue-pendant-plus-dun-an-F3XTIN3NK5CZRNDMLK4HI2RKGY/"
+        },
+        {
+          "editeur": "La Libre",
+          "date": "2023-10-20",
+          "titre": "Le ministre de la Justice Vincent Van Quickenborne démissionne des suites de l’attentat de Bruxelles",
+          "url": "https://www.lalibre.be/belgique/politique-belge/2023/10/20/le-ministre-de-la-justice-vincent-van-quickenborne-demissionne-des-suites-de-lattentat-de-bruxelles-cela-confirme-les-dysfonctionnements-XB76J4WUMFDPBG6CF4K4WFQ6WE/"
+        },
+        {
+          "editeur": "L’Avenir",
+          "date": "2023-10-25",
+          "titre": "Attentat à Bruxelles : devant les députés, Van Tigchelt charge le parquet de Bruxelles",
+          "url": "https://www.lavenir.net/actu/belgique/2023/10/25/attentat-a-bruxelles-devant-les-deputes-van-tigchelt-charge-le-parquet-de-bruxelles-7RI7FNIH3BFTVOF5BPPXBRLQO4/"
+        },
+        {
+          "editeur": "L’Avenir",
+          "date": "2023-10-26",
+          "titre": "Attentat à Bruxelles : le gouvernement a pleine confiance dans ses trois ministres, déclare De Croo",
+          "url": "https://www.lavenir.net/actu/2023/10/26/attentat-a-bruxelles-le-gouvernement-a-pleine-confiance-dans-ses-trois-ministres-declare-de-croo-24OK22WDT5AKVD3S57CWAHOXPU/"
+        },
+        {
+          "editeur": "La DH",
+          "date": "2023-10-21",
+          "titre": "Démission de Van Quickenborne : « la police a respecté les procédures », selon Annelies Verlinden",
+          "url": "https://www.dhnet.be/actu/belgique/2023/10/21/demission-de-van-quickenborne-au-stade-actuel-des-informations-la-police-a-respecte-les-procedures-selon-annelies-verlinden-6YKWWUIPZ5GQDONSAN4BNQ3JTQ/"
+        }
+      ]
+    },
+    {
+      "slug": "narcotrafic",
+      "titre": "Narcotrafic : quand une juge parle de « narco-État »",
+      "titre_court": "Narcotrafic",
+      "rubrique": "Sécurité",
+      "chapo": "Dans une lettre ouverte publiée en octobre 2025, une juge d’instruction anversoise affirme que la Belgique « évolue vers un narco-État ». À Bruxelles, les fusillades se comptent désormais par centaines.",
+      "chiffre_cle": "150+ — fusillades à Bruxelles en un an (bilan à fin août 2026)",
+      "niveaux_de_pouvoir": [
+        "Fédéral",
+        "Communes et CPAS",
+        "Pouvoir judiciaire"
+      ],
+      "statut": "En cours",
+      "gravite": 4,
+      "indice_de_brol": 3,
+      "condamnations": [],
+      "mots_cles": [
+        "drogue",
+        "narcotrafic",
+        "Anvers",
+        "fusillades",
+        "Bruxelles",
+        "corruption"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/narcotrafic.html",
+      "sources": [
+        {
+          "editeur": "RTBF",
+          "date": "2025-10-27",
+          "titre": "« La Belgique devient un narco-État » : une juge d’instruction anversoise dénonce la situation dans une lettre ouverte",
+          "url": "https://www.rtbf.be/article/la-belgique-devient-un-narco-etat-une-juge-d-instruction-anversoise-denonce-la-situation-dans-une-lettre-ouverte-11622802"
+        },
+        {
+          "editeur": "VRT NWS",
+          "date": "2026-08-28",
+          "titre": "150 fusillades et 22 explosions à Bruxelles en un an",
+          "url": "https://www.vrt.be/vrtnws/fr/2026/08/28/150-fusillades-et-22-explosions-a-bruxelles-en-un-an-le-resul/"
+        },
+        {
+          "editeur": "La Libre",
+          "date": "2026-03-17",
+          "titre": "Près de 50 fusillades dans la Région bruxelloise depuis le 4 septembre",
+          "url": "https://www.lalibre.be/belgique/judiciaire/2026/03/17/pres-de-50-fusillades-dans-la-region-bruxelloise-depuis-le-4-septembre-les-sanctions-administratives-prolongees-dans-les-18-hotspots-6OLYBZ6BHNBKFCWW4MOBV66EMU/"
+        },
+        {
+          "editeur": "La Libre",
+          "date": "2026-01-27",
+          "titre": "Bruxelles : des suspects liés au narcotrafic condamnés à un total de 162 ans de prison",
+          "url": "https://www.lalibre.be/belgique/judiciaire/2026/01/27/bruxelles-des-suspects-lies-au-narcotrafic-condamnes-a-un-total-de-162-ans-de-prison-XB2T56SSM5D4BALPZ6KZNLTRNU/"
+        },
+        {
+          "editeur": "RTBF",
+          "date": "2025-10-28",
+          "titre": "La revue de presse : la Belgique est-elle gangrenée par la drogue ?",
+          "url": "https://www.rtbf.be/article/la-revue-de-presse-la-belgique-est-elle-gangrenee-par-la-drogue-11623263"
+        }
+      ]
+    },
+    {
+      "slug": "deficit-record",
+      "titre": "Déficit : la Belgique, lanterne rouge de la zone euro",
+      "titre_court": "Le déficit record",
+      "rubrique": "Finances publiques & fiscalité",
+      "chapo": "Avec un déficit de 5,2 % du PIB en 2025, la Belgique a fait pire que la France. Trois agences de notation l’ont dégradée en dix mois, et le gouvernement De Wever a présenté sa démission sur le budget.",
+      "chiffre_cle": "5,2 % — déficit public 2025, le plus élevé de la zone euro",
+      "niveaux_de_pouvoir": [
+        "Fédéral",
+        "Régions",
+        "Communautés"
+      ],
+      "statut": "En cours",
+      "gravite": 4,
+      "indice_de_brol": 4,
+      "condamnations": [],
+      "mots_cles": [
+        "déficit",
+        "dette publique",
+        "notation",
+        "budget",
+        "Banque nationale"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/deficit-record.html",
+      "sources": [
+        {
+          "editeur": "La DH (Belga)",
+          "date": "2026-04-22",
+          "titre": "La Belgique affichait l’année dernière le plus gros déficit budgétaire de la zone euro",
+          "url": "https://www.dhnet.be/actu/economie/2026/04/22/la-belgique-affichait-lannee-derniere-le-plus-gros-deficit-budgetaire-de-la-zone-euro-ZARSIRABUZE5RCIB5BGT2FX4ME/"
+        },
+        {
+          "editeur": "L’Avenir",
+          "date": "2026-04-17",
+          "titre": "L’agence de notation Moody’s dégrade la note financière de la Belgique",
+          "url": "https://www.lavenir.net/actu/belgique/2026/04/17/lagence-de-notation-financiere-moodys-degrade-la-note-financiere-de-la-belgique-des-efforts-supplementaires-sont-necessaires-OKYCHG4D6ZDPVKZUYPVG2L6L7A/"
+        },
+        {
+          "editeur": "La Libre",
+          "date": "2026-04-24",
+          "titre": "L’agence Standard & Poor’s dégrade à son tour la note de la dette belge",
+          "url": "https://www.lalibre.be/economie/conjoncture/2026/04/24/une-nouvelle-piqure-de-rappel-pour-le-gouvernement-de-wever-lagence-americaine-standard-poors-degrade-a-son-tour-la-note-de-la-dette-belge-35XH4UPDVFG6VOJRYFDZYERPYM/"
+        },
+        {
+          "editeur": "La Libre",
+          "date": "2026-06-12",
+          "titre": "Il faut trouver 14 milliards d’ici fin 2028 pour arriver à un déficit tenable, estime la Banque nationale",
+          "url": "https://www.lalibre.be/economie/conjoncture/2026/06/12/il-faut-trouver-14-milliards-dici-fin-2028-pour-arriver-a-un-deficit-tenable-estime-la-banque-nationale-UPX5DADVT5DCVCCEA2QFMJVSWI/"
+        },
+        {
+          "editeur": "Brussels Times",
+          "date": "2026-03-06",
+          "titre": "Belgium’s budget path remains unsustainable, warns National Bank",
+          "url": "https://brusselstimes.com/belgium/2006786/belgiums-budget-path-remains-unsustainable-warns-national-bank/"
+        },
+        {
+          "editeur": "L’Avenir",
+          "date": "2026-11-06",
+          "titre": "Démission de Bart De Wever refusée et sursis de 10 jours pour le budget",
+          "url": "https://www.lavenir.net/actu/belgique/politique/2026/11/06/demission-de-bart-de-wever-refusee-et-sursis-de-10-jours-pour-le-budget-ce-quil-faut-retenir-de-ce-vendredi-a-haute-intensite-politique-ODH4VWTH2NA3NOCQJGQRFEH774/"
+        },
+        {
+          "editeur": "ING Think",
+          "date": "2025",
+          "titre": "Belgium’s fiscal clean-up still has a long way to go",
+          "url": "https://think.ing.com/articles/belgiums-fiscal-clean-up-still-has-a-long-way-to-go/"
+        }
+      ]
+    },
+    {
+      "slug": "coin-fiscal",
+      "titre": "Travail taxé : la médaille d’or de l’OCDE",
+      "titre_court": "Le coin fiscal record",
+      "rubrique": "Finances publiques & fiscalité",
+      "chapo": "52,5 % : c’est la part du coût salarial d’un célibataire qui part en impôts et cotisations. Aucun pays de l’OCDE ne fait plus. Et jusqu’en 2025, les plus-values financières des particuliers échappaient en règle générale à l’impôt.",
+      "chiffre_cle": "52,5 % — coin fiscal d’un célibataire au salaire moyen (2025)",
+      "niveaux_de_pouvoir": [
+        "Fédéral",
+        "Régions",
+        "Communes et CPAS"
+      ],
+      "statut": "Structurel",
+      "gravite": 3,
+      "indice_de_brol": 3,
+      "condamnations": [],
+      "mots_cles": [
+        "fiscalité",
+        "coin fiscal",
+        "OCDE",
+        "travail",
+        "plus-values"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/coin-fiscal.html",
+      "sources": [
+        {
+          "editeur": "OCDE",
+          "date": "2026-04",
+          "titre": "Taxing Wages 2026 — Overview",
+          "url": "https://www.oecd.org/en/publications/taxing-wages-2026_3a5169ef-en/full-report/overview_d93131c3.html"
+        },
+        {
+          "editeur": "OCDE",
+          "date": "2026-04",
+          "titre": "Taxes on labour continue to rise across OECD countries (communiqué)",
+          "url": "https://www.oecd-ilibrary.org/en/about/news/press-releases/2026/04/taxes-on-labour-continue-to-rise-across-oecd-countries.html"
+        },
+        {
+          "editeur": "SPF Finances",
+          "date": "2026",
+          "titre": "Taxe sur les plus-values",
+          "url": "https://fin.belgium.be/fr/particuliers/declaration-impot/revenus/taxe-plus-values"
+        },
+        {
+          "editeur": "Degand & Partners",
+          "date": "2025",
+          "titre": "Taxe sur les plus-values : une entrée en vigueur au 1er janvier 2026 sans loi votée",
+          "url": "https://blog.degandpartners.com/fr/article/taxe-sur-les-plus-values-une-entree-en-vigueur-au-1er-janvier-2026-sans-loi-votee.-comprendre-le-regime-transitoire-et-sy-preparer-intelligemment/29405"
+        },
+        {
+          "editeur": "La Libre",
+          "date": "2026-08-03",
+          "titre": "Taxe sur les plus-values : une société de bourse demande le report de la taxe au 1er janvier 2027",
+          "url": "https://www.lalibre.be/belgique/politique-belge/2026/08/03/taxe-sur-les-plus-value-une-societe-de-bourse-demande-le-report-de-la-taxe-au-1er-janvier-2027-QVOXBSFSSZE33N3VN6KQZ3ZR74/"
+        },
+        {
+          "editeur": "L’Avenir",
+          "date": "2026-11-06",
+          "titre": "Ce qu’il faut retenir de ce vendredi à haute intensité politique",
+          "url": "https://www.lavenir.net/actu/belgique/politique/2026/11/06/demission-de-bart-de-wever-refusee-et-sursis-de-10-jours-pour-le-budget-ce-quil-faut-retenir-de-ce-vendredi-a-haute-intensite-politique-ODH4VWTH2NA3NOCQJGQRFEH774/"
+        }
+      ]
+    },
+    {
+      "slug": "voitures-de-societe",
+      "titre": "La voiture de société, une niche qui roule",
+      "titre_court": "La niche des voitures de société",
+      "rubrique": "Finances publiques & fiscalité",
+      "chapo": "Près de 600.000 voitures de société pour les seuls salariés, un avantage évalué entre 1,5 et 3,7 milliards d’euros par an, concentré sur les hauts revenus. Et des embouteillages en prime.",
+      "chiffre_cle": "45 % — des voitures de société vont aux 10 % des revenus les plus élevés",
+      "niveaux_de_pouvoir": [
+        "Fédéral"
+      ],
+      "statut": "Partiellement corrigé",
+      "gravite": 2,
+      "indice_de_brol": 3,
+      "condamnations": [],
+      "mots_cles": [
+        "voitures de société",
+        "fiscalité",
+        "mobilité",
+        "embouteillages",
+        "niche fiscale"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/voitures-de-societe.html",
+      "sources": [
+        {
+          "editeur": "RTBF",
+          "date": "2024-03-22",
+          "titre": "Combien de voitures de société en Belgique, qui en profite et qui y perd ?",
+          "url": "https://www.rtbf.be/article/combien-de-voitures-de-societe-en-belgique-qui-en-profite-et-qui-y-perd-11347736"
+        },
+        {
+          "editeur": "Business AM",
+          "date": "2019",
+          "titre": "Les voitures de société : un manque à gagner de 2,3 milliards d’euros par an pour l’État belge",
+          "url": "https://fr.businessam.be/?p=48304"
+        },
+        {
+          "editeur": "RTBF",
+          "date": "2019",
+          "titre": "Voici la facture des voitures de société : au minimum 20 milliards d’euros en 10 ans",
+          "url": "https://www.rtbf.be/article/voici-la-facture-des-voitures-de-societe-au-minimum-20-milliards-d-euros-en-10-ans-10167909"
+        },
+        {
+          "editeur": "La Libre",
+          "date": null,
+          "titre": "La Commission européenne prévient : « La Belgique doit décourager l’usage de la voiture »",
+          "url": "https://www.lalibre.be/belgique/la-commission-europeenne-previent-la-belgique-doit-decourager-l-usage-de-la-voiture-589891bccd70e747fb8e8eda"
+        },
+        {
+          "editeur": "La Libre",
+          "date": "2024-10-21",
+          "titre": "Voici combien coûtent par an les voitures de société thermiques aux contribuables",
+          "url": "https://lalibre.be/economie/entreprises-startup/2024/10/21/voici-combien-coutent-par-an-les-voitures-de-societe-thermiques-aux-contribuables-YMNDSYXCJNG3XBPOP64P6TMOZE/"
+        }
+      ]
+    },
+    {
+      "slug": "rer-interminable",
+      "titre": "RER : quarante ans de quai",
+      "titre_court": "Le RER interminable",
+      "rubrique": "Services publics & infrastructures",
+      "chapo": "Imaginé à la fin des années 1980, annoncé pour 2012, le réseau express régional autour de Bruxelles ne sera pas achevé avant 2034 sur la ligne de Nivelles. Faute d’argent, puis faute de permis.",
+      "chiffre_cle": "2034 — achèvement « au plus tôt » de la ligne Bruxelles-Nivelles",
+      "niveaux_de_pouvoir": [
+        "Fédéral",
+        "Régions",
+        "Communes et CPAS"
+      ],
+      "statut": "En cours",
+      "gravite": 3,
+      "indice_de_brol": 5,
+      "condamnations": [],
+      "mots_cles": [
+        "RER",
+        "Infrabel",
+        "SNCB",
+        "mobilité",
+        "retard",
+        "permis"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/rer-interminable.html",
+      "sources": [
+        {
+          "editeur": "RTBF",
+          "date": "2024-12-04",
+          "titre": "Le RER autour de Bruxelles : un chantier interminable ?",
+          "url": "https://www.rtbf.be/article/le-rer-autour-de-bruxelles-un-chantier-interminable-11471618"
+        },
+        {
+          "editeur": "L’Avenir",
+          "date": "2025-09-24",
+          "titre": "Nouveau retard pour le RER : on parle désormais de 2034 « au plus tôt » pour la ligne Bruxelles-Nivelles",
+          "url": "https://www.lavenir.net/regions/brabantwallon/nivelles/2025/09/24/nouveau-retard-pour-le-rer-on-parle-desormais-de-2034-au-plus-tot-pour-la-ligne-bruxelles-nivelles-6I3XZWRRYRG4PLRA37ZC6H7LL4/"
+        },
+        {
+          "editeur": "La DH",
+          "date": "2023-11-20",
+          "titre": "La nouvelle que l’on n’attendait plus : un premier tronçon RER est désormais en service en Wallonie",
+          "url": "https://www.dhnet.be/actu/belgique/2023/11/20/la-nouvelle-que-lon-nattendait-plus-un-premier-troncon-rer-est-desormais-en-service-en-wallonie-A7ULOCIREZCNNP5BNPSCQRM7ZU/"
+        },
+        {
+          "editeur": "L’Avenir",
+          "date": "2025-09-23",
+          "titre": "« Bruxelles n’a pas d’intérêt à voir avancer le RER » : à Braine-l’Alleud, l’impatience grandit",
+          "url": "https://www.lavenir.net/regions/brabantwallon/braine-l-alleud/2025/09/23/bruxelles-na-pas-dinteret-a-voir-avancer-le-rer-a-braine-lalleud-limpatience-grandit-face-aux-annees-de-retard-7F26WJPA2FB4TLZQEBTAWX3TSU/"
+        },
+        {
+          "editeur": "BX1",
+          "date": "2018-01-10",
+          "titre": "La fin des travaux du RER entre Bruxelles et Nivelles n’est pas attendue avant 2031",
+          "url": "https://bx1.be/categories/news/la-fin-des-travaux-du-rer-entre-bruxelles-et-nivelles-nest-pas-attendue-avant-2031/"
+        },
+        {
+          "editeur": "Belga News Agency",
+          "date": null,
+          "titre": "Federal government uses infrastructure delays to fund new rail investments",
+          "url": "https://www.belganewsagency.eu/federal-government-uses-infrastructure-delays-to-fund-new-rail-investments"
+        }
+      ]
+    },
+    {
+      "slug": "metro-3",
+      "titre": "Métro 3 : terminus, tout le monde descend ?",
+      "titre_court": "Le fiasco du métro 3",
+      "rubrique": "Services publics & infrastructures",
+      "chapo": "La ligne de métro nord-sud de Bruxelles devait être le grand chantier de la Région. La Cour des comptes l’a « pulvérisée » en 2025 ; une commission parlementaire parle de « fiasco ».",
+      "chiffre_cle": "8 Md€ — coût du projet complet en partenariat public-privé (scénario de la STIB)",
+      "niveaux_de_pouvoir": [
+        "Bruxelles (Région, COCOM, COCOF)"
+      ],
+      "statut": "En cours",
+      "gravite": 3,
+      "indice_de_brol": 4,
+      "condamnations": [],
+      "mots_cles": [
+        "métro 3",
+        "STIB",
+        "Bruxelles",
+        "Cour des comptes",
+        "mobilité"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/metro-3.html",
+      "sources": [
+        {
+          "editeur": "RTBF",
+          "date": "2025-10",
+          "titre": "La Cour des comptes auditionnée après son rapport sur la gestion du dossier métro 3",
+          "url": "https://www.rtbf.be/article/la-cour-des-comptes-auditionnee-apres-son-rapport-sur-la-gestion-du-dossier-metro-3-11616033"
+        },
+        {
+          "editeur": "BX1",
+          "date": "2026-07-09",
+          "titre": "La commission métro 3 accouche de 22 recommandations : « une galère sur toute la ligne »",
+          "url": "https://bx1.be/categories/news/la-commission-metro-3-finalise-ses-recommandations-une-galere-sur-toute-la-ligne/"
+        },
+        {
+          "editeur": "ARAU",
+          "date": "2025-10",
+          "titre": "La Cour des comptes enfonce un clou de plus dans le cercueil du métro 3",
+          "url": "https://www.ffue.org/wp-content/uploads/2025/10/ARAU-La-Cour-des-comptes-enfonce-un-clou-de-plus-dans-le-cercueil-du-metro-3.pdf"
+        },
+        {
+          "editeur": "La Libre",
+          "date": "2023-05-24",
+          "titre": "Le gouvernement bruxellois veut tenter de sauver la ligne 3, mais ne fera pas son métro « quoi qu’il en coûte »",
+          "url": "https://www.lalibre.be/belgique/politique-belge/2023/05/24/le-gouvernement-bruxellois-veut-tenter-de-sauver-la-ligne-3-mais-ne-fera-pas-son-metro-quoi-quil-en-coute-CNXTZO5E4VFOTOULA6T3SDWKXY/"
+        },
+        {
+          "editeur": "BX1",
+          "date": null,
+          "titre": "Le gouvernement bruxellois table sur des alternatives au métro 3",
+          "url": "https://bx1.be/categories/news/le-gouvernement-bruxellois-table-sur-des-alternatives-au-metro-3/"
+        }
+      ]
+    },
+    {
+      "slug": "covid-maisons-de-repos",
+      "titre": "Covid : les maisons de repos en première ligne, l’État à la traîne",
+      "titre_court": "Covid et maisons de repos",
+      "rubrique": "Santé & social",
+      "chapo": "Au printemps 2020, près de deux tiers des décès liés au Covid ont touché des résidents de maisons de repos. Amnesty a dénoncé des droits humains ignorés ; l’État avait détruit son stock de masques sans le remplacer.",
+      "chiffre_cle": "64 % — des décès Covid de la première vague concernaient des résidents de maisons de repos",
+      "niveaux_de_pouvoir": [
+        "Fédéral",
+        "Communautés",
+        "Régions",
+        "Bruxelles (Région, COCOM, COCOF)"
+      ],
+      "statut": "Historique",
+      "gravite": 5,
+      "indice_de_brol": 5,
+      "condamnations": [],
+      "mots_cles": [
+        "Covid-19",
+        "maisons de repos",
+        "masques",
+        "Amnesty",
+        "santé publique"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/covid-maisons-de-repos.html",
+      "sources": [
+        {
+          "editeur": "Brussels Times",
+          "date": "2020-11-16",
+          "titre": "Amnesty: Human rights were ignored in Belgium’s care homes",
+          "url": "https://brusselstimes.com/140935/amnesty-human-rights-were-ignored-in-belgiums-care-homes-covid-19-pandemic"
+        },
+        {
+          "editeur": "Amnesty International Belgique",
+          "date": "2020-11-16",
+          "titre": "Rapport sur les maisons de repos pendant la pandémie (PDF)",
+          "url": "https://www.amnesty.be/IMG/pdf/20201116_rapport_belgique_mr_mrs.pdf"
+        },
+        {
+          "editeur": "L’Avenir",
+          "date": "2021-04-23",
+          "titre": "Coronavirus : De Block le reconnaît, ne pas reconstituer le stock de masques était une erreur",
+          "url": "https://www.lavenir.net/cnt/dmf20210423_01574635/coronavirus-de-block-le-reconnait-ne-pas-reconstituer-le-stock-de-masques-etait-une-erreur-nous-n-avons-pas-pense-que-c-etait-urgent"
+        },
+        {
+          "editeur": "RTBF",
+          "date": "2021",
+          "titre": "Coronavirus : la destruction des masques stockés, « une erreur avec le recul »",
+          "url": "https://www.rtbf.be/article/coronavirus-la-destruction-des-masques-stockes-a-belgrade-une-erreur-avec-le-recul-10696888"
+        },
+        {
+          "editeur": "Brussels Times",
+          "date": "2020-03",
+          "titre": "Belgium destroyed millions of mouth masks ahead of outbreak",
+          "url": "https://brusselstimes.com/102302/belgium-destroyed-and-did-not-replace-millions-of-mouth-masks"
+        },
+        {
+          "editeur": "Sciensano",
+          "date": "2023",
+          "titre": "Épidémiologie de la mortalité Covid-19 en Belgique, de la vague 1 à 7",
+          "url": "https://www.sciensano.be/sites/default/files/epidemiologie_de_la_mortalite_covid-19_en_belgique_de_la_vague_1_a_7.pdf"
+        }
+      ]
+    },
+    {
+      "slug": "pauvrete-sans-abrisme",
+      "titre": "Pauvreté : un Bruxellois sur trois sur le fil",
+      "titre_court": "Pauvreté et sans-abrisme",
+      "rubrique": "Santé & social",
+      "chapo": "Plus de deux millions de Belges sont exposés au risque de pauvreté ou d’exclusion sociale. À Bruxelles, près de 10.000 personnes ont été comptées sans chez-soi en une seule nuit.",
+      "chiffre_cle": "9.777 — personnes sans abri ou sans chez-soi comptées à Bruxelles (novembre 2024)",
+      "niveaux_de_pouvoir": [
+        "Fédéral",
+        "Régions",
+        "Communautés",
+        "Communes et CPAS"
+      ],
+      "statut": "Structurel",
+      "gravite": 4,
+      "indice_de_brol": 3,
+      "condamnations": [],
+      "mots_cles": [
+        "pauvreté",
+        "sans-abrisme",
+        "logement",
+        "Bruxelles",
+        "CPAS"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/pauvrete-sans-abrisme.html",
+      "sources": [
+        {
+          "editeur": "Statbel",
+          "date": "2025",
+          "titre": "Risque de pauvreté ou d’exclusion sociale",
+          "url": "https://statbel.fgov.be/en/themes/households/poverty-and-living-conditions/risk-poverty-or-social-exclusion"
+        },
+        {
+          "editeur": "La Libre (via IBSA)",
+          "date": "2026-01-22",
+          "titre": "Dix chiffres sur l’état préoccupant de la Région bruxelloise",
+          "url": "https://ibsa.brussels/sites/default/files/2026-02/20260122_LaLibreBelgique_10%20chiffres%20%C3%A9tat%20pr%C3%A9occupant%20RBC.pdf"
+        },
+        {
+          "editeur": "VRT NWS",
+          "date": "2025-04-16",
+          "titre": "Bruxelles : près de 10.000 personnes sans abri ou sans chez-soi",
+          "url": "https://www.vrt.be/vrtnws/fr/2025/04/16/bruxelles-pres-de-10-000-personnes-sans-abri-ou-sans-chez-soi/"
+        },
+        {
+          "editeur": "VRT NWS",
+          "date": "2026-03-26",
+          "titre": "La Flandre compte plus de 21.000 personnes sans abri et sans chez-soi",
+          "url": "https://www.vrt.be/vrtnws/fr/2026/03/26/la-flandre-compte-plus-de-21-000-personnes-sans-abri-et-sans-che/"
+        },
+        {
+          "editeur": "BX1",
+          "date": null,
+          "titre": "Des plans régionaux à la traîne : où en est l’offre de logements publics à Bruxelles ?",
+          "url": "https://bx1.be/categories/news/des-plans-regionaux-a-la-traine-et-une-grande-disparite-entre-les-communes-ou-en-est-loffre-de-logements-publics-a-bruxelles/"
+        },
+        {
+          "editeur": "BX1",
+          "date": null,
+          "titre": "Plus d’un Bruxellois sur trois est exposé au risque de pauvreté",
+          "url": "https://bx1.be/categories/news/plus-dun-bruxellois-sur-trois-est-expose-au-risque-de-pauvrete-il-sagit-du-taux-le-plus-eleve-du-pays/"
+        }
+      ]
+    },
+    {
+      "slug": "handicap-inclusion",
+      "titre": "Handicap : deux fois épinglée par le Conseil de l’Europe",
+      "titre_court": "Handicap et inclusion",
+      "rubrique": "Santé & social",
+      "chapo": "Manque de solutions pour les adultes lourdement handicapés, école inclusive restée théorique : le Comité européen des droits sociaux a condamné la Belgique en 2013, puis à nouveau en 2021.",
+      "chiffre_cle": "2 — décisions de violation du Comité européen des droits sociaux (2013, 2021)",
+      "niveaux_de_pouvoir": [
+        "Fédéral",
+        "Communautés",
+        "Régions",
+        "Bruxelles (Région, COCOM, COCOF)"
+      ],
+      "statut": "Structurel",
+      "gravite": 4,
+      "indice_de_brol": 4,
+      "condamnations": [
+        "Comité européen des droits sociaux, FIDH c. Belgique (2013)",
+        "Comité européen des droits sociaux, FIDH et Inclusion Europe c. Belgique (2021)"
+      ],
+      "mots_cles": [
+        "handicap",
+        "inclusion",
+        "Charte sociale européenne",
+        "enseignement inclusif",
+        "droits sociaux"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/handicap-inclusion.html",
+      "sources": [
+        {
+          "editeur": "FIDH",
+          "date": "2013",
+          "titre": "Highly dependent disabled persons: Belgium condemned by the European Committee of Social Rights",
+          "url": "https://www.fidh.org/en/region/europe-central-asia/belgium/highly-dependent-disabled-persons-belgium-condemned-by-the-european-13964"
+        },
+        {
+          "editeur": "Conseil de l’Europe",
+          "date": "2013",
+          "titre": "Réclamation n° 75/2011, FIDH c. Belgique — décision sur le bien-fondé",
+          "url": "https://rm.coe.int/n-75-2011-federation-internationale-des-ligues-des-droits-de-l-homme-f/168074a2f0"
+        },
+        {
+          "editeur": "Inclusion ASBL (via BDF)",
+          "date": "2021-02-03",
+          "titre": "Enseignement : condamnation de la Belgique par le CEDS (réclamation 141/2017)",
+          "url": "https://bdf.belgium.be/media/static/files/import/ca_du_09_03_2021/a15a-enseignement-condamnation-ceds-be-inclusion-fidh.pdf"
+        },
+        {
+          "editeur": "Belgian Disability Forum",
+          "date": "2024-09-12",
+          "titre": "Résumé du 3e rapport alternatif (UNCRPD)",
+          "url": "https://bdf.belgium.be/resource/static/files/international-conventions/UNCRPD/2024-09-12-resume-du-3eme-rapport-alternatif-du-bdf-uncrpd.pdf"
+        },
+        {
+          "editeur": "Banque des Territoires",
+          "date": null,
+          "titre": "Après sa condamnation, la Belgique pourrait remettre en cause l’accueil de handicapés français",
+          "url": "https://www.banquedesterritoires.fr/apres-sa-condamnation-la-belgique-pourrait-remettre-en-cause-laccueil-de-handicapes-francais"
+        }
+      ]
+    },
+    {
+      "slug": "exclusions-chomage",
+      "titre": "Chômage limité dans le temps : la facture glisse vers les CPAS",
+      "titre_court": "Les exclus du chômage",
+      "rubrique": "Santé & social",
+      "chapo": "Depuis janvier 2026, les allocations de chômage sont limitées à deux ans. En six mois, quelque 99.000 personnes ont perdu leurs droits ; plus de la moitié ont frappé à la porte d’un CPAS.",
+      "chiffre_cle": "99.000 — personnes exclues du chômage au premier semestre 2026",
+      "niveaux_de_pouvoir": [
+        "Fédéral",
+        "Communes et CPAS"
+      ],
+      "statut": "En cours",
+      "gravite": 3,
+      "indice_de_brol": 3,
+      "condamnations": [],
+      "mots_cles": [
+        "chômage",
+        "CPAS",
+        "réforme",
+        "revenu d’intégration",
+        "ONEM"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/exclusions-chomage.html",
+      "sources": [
+        {
+          "editeur": "VRT NWS",
+          "date": "2026-08-06",
+          "titre": "Plus de la moitié des exclus du chômage ont demandé un revenu d’intégration",
+          "url": "https://www.vrt.be/vrtnws/fr/2026/08/06/plus-de-la-moitie-des-exclus-du-chomage-ont-demande-un-revenu-d/"
+        },
+        {
+          "editeur": "La DH",
+          "date": "2026-04-20",
+          "titre": "Explosion des demandes au CPAS de Saint-Gilles depuis la réforme du chômage",
+          "url": "https://www.dhnet.be/regions/bruxelles/2026/04/20/explosion-des-demandes-au-cpas-de-saint-gilles-depuis-la-reforme-du-chomage-vers-5-millions-deuros-de-deficit-budgetaire-en-2029-IHC7SKHGMNA6HDTCYLCUURXQU4/"
+        },
+        {
+          "editeur": "L’Avenir",
+          "date": "2026-04-30",
+          "titre": "Chômeurs non indemnisés : « Les chiffres sont en train d’exploser en Wallonie »",
+          "url": "https://www.lavenir.net/actu/belgique/politique/2026/04/30/chomeurs-non-indemnises-les-chiffres-sont-en-train-dexploser-en-wallonie-LSY2D5JBBRAETMTDLJKW7ZTAZQ/"
+        },
+        {
+          "editeur": "La DH",
+          "date": "2026-01-04",
+          "titre": "« Nous nous attendions au chaos » : les premiers exclus du chômage accueillis par les CPAS",
+          "url": "https://www.dhnet.be/actu/belgique/2026/01/04/nous-nous-attendions-au-chaos-les-premiers-exclus-du-chomage-accueillis-aux-cpas-OFAOG4V2VRDBVJRKC7VKRX5OIQ/"
+        },
+        {
+          "editeur": "RTBF",
+          "date": "2026",
+          "titre": "Réforme du chômage : les CPAS évoquent une affluence plus importante que prévu",
+          "url": "https://www.rtbf.be/article/reforme-du-chomage-les-cpas-evoquent-une-affluence-plus-importante-que-prevu-11670063"
+        },
+        {
+          "editeur": "MR",
+          "date": "2025-08",
+          "titre": "Argumentaire : réforme des allocations de chômage et mesures de soutien aux CPAS",
+          "url": "https://www.mr.be/wp-content/uploads/2025/09/14-250806-Argumentaire-CPAS-Reforme-allocations-chomage_mesures-soutien-aux-cpas.pdf"
+        }
+      ]
+    },
+    {
+      "slug": "affaire-climat",
+      "titre": "Climat : l’État coupable de négligence",
+      "titre_court": "L’Affaire Climat",
+      "rubrique": "Environnement & énergie",
+      "chapo": "Saisie par l’ASBL Klimaatzaak et quelque 58.000 citoyens, la justice a jugé en 2021 que les autorités belges manquaient à leur devoir de prudence, puis leur a ordonné en 2023 de réduire les émissions d’au moins 55 % d’ici 2030.",
+      "chiffre_cle": "−55 % — réduction d’émissions ordonnée d’ici 2030 (par rapport à 1990)",
+      "niveaux_de_pouvoir": [
+        "Fédéral",
+        "Régions",
+        "Bruxelles (Région, COCOM, COCOF)"
+      ],
+      "statut": "En cours",
+      "gravite": 4,
+      "indice_de_brol": 5,
+      "condamnations": [
+        "Tribunal de première instance de Bruxelles (2021)",
+        "Cour d’appel de Bruxelles (2023)"
+      ],
+      "mots_cles": [
+        "climat",
+        "Klimaatzaak",
+        "Affaire Climat",
+        "émissions",
+        "devoir de prudence"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/affaire-climat.html",
+      "sources": [
+        {
+          "editeur": "Climatalk",
+          "date": "2025-08-11",
+          "titre": "VZW Klimaatzaak v Kingdom of Belgium",
+          "url": "https://climatalk.org/2025/08/11/vzw-klimaatzaak-v-kingdom-of-belgium/"
+        },
+        {
+          "editeur": "Brussels Times",
+          "date": "2023-11-30",
+          "titre": "Federal, Flemish and Brussels Governments convicted for inadequate climate policy",
+          "url": "https://www.brusselstimes.com/belgium/819198/federal-flemish-and-brussels-governments-convicted-for-inadequate-climate-policy"
+        },
+        {
+          "editeur": "Clifford Chance",
+          "date": "2023-12",
+          "titre": "Brussels Court of Appeal orders Belgian State to reduce GHG emissions by 55% by 2030",
+          "url": "https://cliffordchance.com/insights/resources/blogs/business-and-human-rights-insights/2023/12/brussels-court-of-appeal-orders-belgian-state-to-reduce-ghg-emissions-by-55-by-2030.html"
+        },
+        {
+          "editeur": "Solar Magazine",
+          "date": "2024",
+          "titre": "Minister Demir dient cassatieberoep tegen klimaatarrest in",
+          "url": "https://solarmagazine.nl/nieuws-zonne-energie/i37243/minister-demir-dient-cassatieberoep-tegen-klimaatarrest-in"
+        },
+        {
+          "editeur": "L’Affaire Climat",
+          "date": null,
+          "titre": "Site de l’ASBL Klimaatzaak",
+          "url": "https://affaire-climat.be/en"
+        },
+        {
+          "editeur": "European Constitutional Law Review",
+          "date": null,
+          "titre": "Climate litigation, separation of powers and federalism à la belge",
+          "url": "https://resolve.cambridge.org/core/journals/european-constitutional-law-review/article/climate-litigation-separation-of-powers-and-federalism-a-la-belge-a-commentary-of-the-belgian-climate-case/63DA1B41D267DB17947E02D9050985DB"
+        }
+      ]
+    },
+    {
+      "slug": "pfas",
+      "titre": "PFAS : l’eau du robinet, affaire d’État",
+      "titre_court": "Les PFAS",
+      "rubrique": "Environnement & énergie",
+      "chapo": "En 2021, la pollution autour de l’usine 3M de Zwijndrecht ; en 2023, l’eau de distribution de Chièvres. Deux Régions, une même question : pourquoi les alertes ont-elles mis si longtemps à atteindre les citoyens ?",
+      "chiffre_cle": "28 % — des habitants testés à Chièvres au-dessus du seuil critique (2024)",
+      "niveaux_de_pouvoir": [
+        "Régions",
+        "Fédéral"
+      ],
+      "statut": "Partiellement corrigé",
+      "gravite": 4,
+      "indice_de_brol": 3,
+      "condamnations": [],
+      "mots_cles": [
+        "PFAS",
+        "PFOS",
+        "3M",
+        "Chièvres",
+        "eau potable",
+        "pollution"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/pfas.html",
+      "sources": [
+        {
+          "editeur": "VRT NWS",
+          "date": "2022-03-28",
+          "titre": "PFOS-PFAS inquiry committee points the finger at 3M",
+          "url": "https://www.vrt.be/vrtnws/en/2022/03/28/pfos-pfas-inquiry-committee-points-the-finger-at-3m/"
+        },
+        {
+          "editeur": "NOS",
+          "date": "2022",
+          "titre": "Vlaams parlement: 3M moet alle pfas-schade vergoeden",
+          "url": "https://nos.nl/artikel/2422993-vlaams-parlement-3m-moet-alle-pfas-schade-vergoeden"
+        },
+        {
+          "editeur": "L’Avenir",
+          "date": "2023-11-16",
+          "titre": "PFAS : la commune de Chièvres « invite » sa population à ne pas consommer l’eau du robinet",
+          "url": "https://www.lavenir.net/regions/wallonie-picarde/chievres/2023/11/16/pfas-la-commune-de-chievres-invite-sa-population-a-ne-pas-consommer-leau-du-robinet-O2DUIEYC65HTDNU5I5NWVSGKIE/"
+        },
+        {
+          "editeur": "L’Avenir",
+          "date": "2023-11-17",
+          "titre": "Affaire PFAS : la ministre Tellier a-t-elle tout dit en commission ?",
+          "url": "https://www.lavenir.net/actu/belgique/2023/11/17/affaire-pfas-la-ministre-tellier-a-t-elle-tout-dit-en-commission-chaque-fois-quelle-a-ete-alertee-elle-a-agi-dit-christophe-clersy-video-ZLPYOBYF45ENLI633YNRQVA3QM/"
+        },
+        {
+          "editeur": "La Libre",
+          "date": "2024-06-25",
+          "titre": "Pollution aux PFAS : 28 % de la population de Chièvres dépasse le seuil critique",
+          "url": "https://www.lalibre.be/planete/sante/2024/06/25/pollution-aux-pfas-28-de-la-population-de-chievres-depasse-le-seuil-critique-43CQP2PV7VB5ZCSZQ4N35LOCXE/"
+        },
+        {
+          "editeur": "L’Avenir",
+          "date": "2026-04-21",
+          "titre": "Saga des PFAS : les habitants de Chièvres peuvent désormais boire l’eau du robinet en totale confiance",
+          "url": "https://www.lavenir.net/regions/wallonie-picarde/chievres/2026/04/21/saga-des-pfas-les-habitants-de-chievres-peuvent-desormais-boire-leau-du-robinet-en-totale-confiance-assure-le-ministre-coppieters-SFA2JRJ3GVFZFEY2EPAR3K37RI/"
+        }
+      ]
+    },
+    {
+      "slug": "nucleaire-valse",
+      "titre": "Nucléaire : vingt ans de valse-hésitation",
+      "titre_court": "La valse nucléaire",
+      "rubrique": "Environnement & énergie",
+      "chapo": "Sortie votée en 2003, prolongations au compte-gouttes, réacteurs fermés puis rachat envisagé par l’État en 2026 : la politique nucléaire belge a changé de cap au gré des majorités.",
+      "chiffre_cle": "2003 → 2025 — de la loi de sortie du nucléaire à son abrogation",
+      "niveaux_de_pouvoir": [
+        "Fédéral"
+      ],
+      "statut": "En cours",
+      "gravite": 3,
+      "indice_de_brol": 3,
+      "condamnations": [],
+      "mots_cles": [
+        "nucléaire",
+        "Engie",
+        "Doel",
+        "Tihange",
+        "énergie",
+        "sortie du nucléaire"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/nucleaire-valse.html",
+      "sources": [
+        {
+          "editeur": "Connaissance des Énergies (AFP)",
+          "date": "2026-04-30",
+          "titre": "La Belgique veut prendre le contrôle de ses centrales nucléaires, va négocier avec Engie",
+          "url": "https://www.connaissancedesenergies.org/afp/la-belgique-veut-prendre-le-controle-de-ses-centrales-nucleaires-va-negocier-avec-engie-260430"
+        },
+        {
+          "editeur": "L’Avenir",
+          "date": "2026-04-30",
+          "titre": "Le gouvernement entame des négociations avec Engie pour l’acquisition du parc nucléaire belge",
+          "url": "https://www.lavenir.net/actu/belgique/2026/04/30/le-gouvernement-entame-des-negociations-avec-engie-pour-lacquisition-du-parc-nucleaire-belge-cela-sinscrit-dans-une-vision-politique-coherente-O4PPFR7TSJA4DCQSUFZJXMY6IM/"
+        },
+        {
+          "editeur": "Option Finance",
+          "date": "2026-10-01",
+          "titre": "Engie repousse la date cible pour un protocole d’accord sur le nucléaire belge",
+          "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-10-01-engie-repousse-la-date-cible-pour-un-protocole-daccord-sur-le-nucleaire-belge.html"
+        },
+        {
+          "editeur": "Business AM",
+          "date": "2025-05",
+          "titre": "Le Parlement abolit définitivement la loi sur la sortie du nucléaire",
+          "url": "https://fr.businessam.be/?p=157333"
+        },
+        {
+          "editeur": "World Nuclear News",
+          "date": "2025-05",
+          "titre": "Belgium reverses phase-out policy as Denmark reconsiders nuclear",
+          "url": "https://www.world-nuclear-news.org/articles/belgium-reverses-phase-out-policy-as-denmark-reconsiders-nuclear"
+        },
+        {
+          "editeur": "La Libre",
+          "date": "2026-05-01",
+          "titre": "Rachat du nucléaire d’Engie par l’État : les grandes questions d’un dossier sensible",
+          "url": "https://www.lalibre.be/economie/conjoncture/2026/05/01/rachat-du-nucleaire-dengie-les-grandes-questions-dun-dossier-explosif-X4ZKM2PKUVC25KI7S233FOBBE4/"
+        }
+      ]
+    },
+    {
+      "slug": "inondations-2021",
+      "titre": "Inondations de 2021 : l’alerte arrivée après l’eau",
+      "titre_court": "Les inondations de 2021",
+      "rubrique": "Environnement & énergie",
+      "chapo": "Trente-neuf morts, des dizaines de milliers de logements endommagés en Wallonie. Les alertes ont été relevées au niveau maximal alors que l’eau montait déjà.",
+      "chiffre_cle": "39 — morts lors des inondations de juillet 2021",
+      "niveaux_de_pouvoir": [
+        "Régions",
+        "Fédéral",
+        "Communes et CPAS"
+      ],
+      "statut": "Historique",
+      "gravite": 5,
+      "indice_de_brol": 3,
+      "condamnations": [],
+      "mots_cles": [
+        "inondations",
+        "Vesdre",
+        "alerte",
+        "gestion de crise",
+        "Wallonie"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/inondations-2021.html",
+      "sources": [
+        {
+          "editeur": "Brussels Times",
+          "date": "2026-07",
+          "titre": "Wallonia floods five years on: How one of Belgium’s worst tragedies unfolded",
+          "url": "https://brusselstimes.com/belgium/2216598/wallonia-floods-five-years-on-how-one-of-belgiums-worst-tragedies-unfolded/"
+        },
+        {
+          "editeur": "Wallonie",
+          "date": "2022",
+          "titre": "Rapport de la commission d’enquête parlementaire sur les inondations",
+          "url": "https://www.wallonie.be/fr/inondations/commissariat-special-la-reconstruction-csr/rapport-de-la-commission-denquete-parlementaire-inondations"
+        },
+        {
+          "editeur": "RTBF",
+          "date": "2021-10",
+          "titre": "Rapport indépendant sur les inondations : on ne peut pas associer le phénomène de vagues à la gestion du barrage d’Eupen",
+          "url": "https://www.rtbf.be/article/rapport-independant-sur-les-inondations-on-ne-peut-pas-associer-le-phenomene-de-vagues-a-la-gestion-du-barrage-d-eupen-10857954"
+        },
+        {
+          "editeur": "La Libre",
+          "date": "2021-10-22",
+          "titre": "Commission inondations : à Verviers, la bourgmestre faisant fonction n’a pas reçu le mail d’alerte provincial",
+          "url": "https://www.lalibre.be/regions/liege/2021/10/22/commission-inondations-a-verviers-la-bourgmestre-faisant-fonction-na-pas-recu-le-mail-dalerte-provinciale-YCCOQBCUHJH7HBKHR5LERBO3UQ/"
+        },
+        {
+          "editeur": "L’Avenir",
+          "date": "2022-01-21",
+          "titre": "Intempéries : « Notre pays n’était pas prêt à faire face à cette catastrophe »",
+          "url": "https://www.lavenir.net/actu/belgique/2022/01/21/intemperies-notre-pays-netait-pas-pret-a-faire-face-a-cette-catastrophe-SCR2RPFO7RCL5M77VBWDMYG3VE/"
+        }
+      ]
+    },
+    {
+      "slug": "memoire-coloniale",
+      "titre": "Congo : la mémoire en procès",
+      "titre_court": "La mémoire coloniale",
+      "rubrique": "Mémoire, éthique & école",
+      "chapo": "Pour la première fois, la justice belge a qualifié de crime contre l’humanité l’enlèvement d’enfants métis au Congo belge. Le Parlement, lui, n’a jamais conclu ses travaux sur le passé colonial.",
+      "chiffre_cle": "22 mai 2026 — la Cour de cassation rend définitive la condamnation de l’État",
+      "niveaux_de_pouvoir": [
+        "Fédéral"
+      ],
+      "statut": "Partiellement corrigé",
+      "gravite": 3,
+      "indice_de_brol": 2,
+      "condamnations": [
+        "Cour d’appel de Bruxelles (2024), confirmée par la Cour de cassation (2026)"
+      ],
+      "mots_cles": [
+        "Congo",
+        "colonisation",
+        "métis",
+        "crime contre l’humanité",
+        "mémoire"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/memoire-coloniale.html",
+      "sources": [
+        {
+          "editeur": "Mediacongo",
+          "date": "2026-06-12",
+          "titre": "La Belgique définitivement condamnée pour l’enlèvement d’enfants métis pendant la colonisation",
+          "url": "https://www.mediacongo.net/article-actualite-164626_la_belgique_definitivement_condamnee_pour_l_enlevement_d_enfants_metis_pendant_la_colonisation.html"
+        },
+        {
+          "editeur": "Euronews",
+          "date": "2024-12-03",
+          "titre": "La Belgique reconnue coupable de crimes contre l’humanité pour des enlèvements dans l’ex-RDC",
+          "url": "https://fr.euronews.com/2024/12/03/la-belgique-reconnue-coupable-de-crimes-contre-lhumanite-pour-des-enlevements-dans-lex-rdc"
+        },
+        {
+          "editeur": "La Libre (Belga)",
+          "date": "2024-12-02",
+          "titre": "Métis : l’arrêt reconnaît la responsabilité de la Belgique face aux victimes",
+          "url": "https://www.lalibre.be/dernieres-depeches/2024/12/02/passe-colonial-metis-larret-reconnait-la-responsabilite-de-la-belgique-face-aux-victimes-STFRGPHDVBFGJGRXKZQKBU5674/"
+        },
+        {
+          "editeur": "VRT NWS",
+          "date": "2022-12-19",
+          "titre": "Échec de la commission parlementaire sur le passé colonial",
+          "url": "https://www.vrt.be/vrtnws/fr/2022/12/19/echec-de-la-commission-parlementaire-sur-le-passe-colonial-les/"
+        },
+        {
+          "editeur": "Justice Info",
+          "date": null,
+          "titre": "Rencontre avec deux métisses du Congo belge indemnisées",
+          "url": "https://www.justiceinfo.net/fr/154282-rencontre-avec-deux-metisses-du-congo-belge-indemnisees.html"
+        },
+        {
+          "editeur": "Wikipedia",
+          "date": null,
+          "titre": "Métis (Belgian Congo)",
+          "url": "https://en.wikipedia.org/wiki/M%C3%A9tis_(Belgian_Congo)"
+        }
+      ]
+    },
+    {
+      "slug": "corruption-integrite",
+      "titre": "Corruption : le thermomètre au plus bas",
+      "titre_court": "Corruption et intégrité",
+      "rubrique": "Mémoire, éthique & école",
+      "chapo": "69 sur 100 : jamais la Belgique n’avait aussi mal figuré dans l’indice de perception de la corruption. Et le Conseil de l’Europe juge ses progrès trop lents depuis plus de dix ans.",
+      "chiffre_cle": "69/100 — score à l’indice de perception de la corruption 2025 (21e sur 180)",
+      "niveaux_de_pouvoir": [
+        "Fédéral",
+        "Régions",
+        "Communes et CPAS"
+      ],
+      "statut": "Structurel",
+      "gravite": 4,
+      "indice_de_brol": 3,
+      "condamnations": [],
+      "mots_cles": [
+        "corruption",
+        "GRECO",
+        "Transparency International",
+        "Qatargate",
+        "intégrité",
+        "lobbying"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/corruption-integrite.html",
+      "sources": [
+        {
+          "editeur": "Brussels Times",
+          "date": "2026-02-11",
+          "titre": "Belgium is doing nothing about corruption, warn experts",
+          "url": "https://brusselstimes.com/belgium/1963835/belgium-is-doing-nothing-about-corruption-warn-experts/"
+        },
+        {
+          "editeur": "Conseil de l’Europe (GRECO)",
+          "date": "2026-01-06",
+          "titre": "Two new assessments from Council of Europe anti-corruption group on Belgium",
+          "url": "https://www.coe.int/en/web/portal/-/two-new-assessments-from-council-of-europe-anti-corruption-group-on-belgium"
+        },
+        {
+          "editeur": "Brussels Times",
+          "date": "2025-02-15",
+          "titre": "Belgian anti-corruption chief raises alarm over political interference",
+          "url": "https://www.brusselstimes.com/1442747/belgian-anti-corruption-chief-raises-alarm-over-political-interference"
+        },
+        {
+          "editeur": "Inside World Football",
+          "date": "2026-02-23",
+          "titre": "Belgian court rules Qatargate probe can continue",
+          "url": "https://www.insideworldfootball.com/2026/02/23/belgian-court-rules-qatargate-probe-can-continue/"
+        },
+        {
+          "editeur": "Paris Match Belgique",
+          "date": "2017-06-08",
+          "titre": "Samusocial : devant la pression, Yvan Mayeur démissionne de son poste de bourgmestre",
+          "url": "https://www.parismatch.be/actualites/politique/2017/06/08/samusocial-devant-la-pression-yvan-mayeur-demissionne-de-son-poste-de-bourgmestre-ZBBEBMEHFZAR3CERNMKJ6C7QJ4/"
+        },
+        {
+          "editeur": "La Libre",
+          "date": "2017-03-28",
+          "titre": "Publifin : le directeur financier ne convainc pas sur la rémunération des comités de secteur",
+          "url": "https://www.lalibre.be/belgique/politique-belge/2017/03/28/publifin-le-directeur-financier-ne-convainc-pas-sur-la-remuneration-des-comites-de-secteur-RQUV7UL2BJHFDCQ2NVKMFOUKT4/"
+        },
+        {
+          "editeur": "VRT NWS",
+          "date": "2025-02-11",
+          "titre": "La Belgique perd 6 places au classement mondial de l’indice de perception de la corruption",
+          "url": "https://www.vrt.be/vrtnws/fr/2025/02/11/la-belgique-perd-6-places-au-classement-mondial-de-l-indice-de-p/"
+        }
+      ]
+    },
+    {
+      "slug": "ecole-inegalitaire",
+      "titre": "École : l’ascenseur social en panne",
+      "titre_court": "L’école inégalitaire",
+      "rubrique": "Mémoire, éthique & école",
+      "chapo": "Un élève francophone de 15 ans sur trois est en retard scolaire. En lecture, la Fédération Wallonie-Bruxelles termine dernière des systèmes de référence de l’étude PIRLS.",
+      "chiffre_cle": "1 sur 3 — élèves de 15 ans en retard scolaire en Fédération Wallonie-Bruxelles (PISA 2022)",
+      "niveaux_de_pouvoir": [
+        "Communautés"
+      ],
+      "statut": "Structurel",
+      "gravite": 4,
+      "indice_de_brol": 3,
+      "condamnations": [
+        "Comité européen des droits sociaux (2021, éducation inclusive)"
+      ],
+      "mots_cles": [
+        "école",
+        "PISA",
+        "PIRLS",
+        "redoublement",
+        "inégalités",
+        "enseignement"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/ecole-inegalitaire.html",
+      "sources": [
+        {
+          "editeur": "Université de Liège (aSPe)",
+          "date": "2023-12",
+          "titre": "Synthèse des résultats PISA 2022 en Fédération Wallonie-Bruxelles",
+          "url": "https://www.pisa-fwb.uliege.be/upload/docs/application/pdf/2023-12/synthese_resultats_pisa_2022.pdf"
+        },
+        {
+          "editeur": "Université de Liège (aSPe)",
+          "date": "2023-05",
+          "titre": "PIRLS 2021 en bref",
+          "url": "https://www.pirls-fwb.uliege.be/upload/docs/application/pdf/2023-05/pirls_2021_en_bref.pdf"
+        },
+        {
+          "editeur": "OCDE",
+          "date": "2023-12",
+          "titre": "Résultats du PISA 2022 (Volume I) : comment les pays ont-ils réussi ?",
+          "url": "https://www.oecd.org/fr/publications/resultats-du-pisa-2022-volume-i_165f1d07-fr/full-report/how-did-countries-perform-in-pisa_dc514907.html"
+        },
+        {
+          "editeur": "BX1",
+          "date": "2023-12",
+          "titre": "Étude PISA : baisse inédite en mathématiques, le Covid a pesé sur les apprentissages",
+          "url": "https://bx1.be/categories/news/etude-pisa-baisse-inedite-en-mathematiques-le-covid-a-pese-sur-les-apprentissages/"
+        },
+        {
+          "editeur": "Inclusion ASBL (via BDF)",
+          "date": "2021-02-03",
+          "titre": "Enseignement : condamnation de la Belgique par le CEDS",
+          "url": "https://bdf.belgium.be/media/static/files/import/ca_du_09_03_2021/a15a-enseignement-condamnation-ceds-be-inclusion-fidh.pdf"
+        }
+      ]
+    },
+    {
+      "slug": "dutroux-30-ans",
+      "titre": "Dutroux, trente ans après : la faillite fondatrice",
+      "titre_court": "Dutroux, trente ans après",
+      "rubrique": "Mémoire, éthique & école",
+      "chapo": "Le 20 octobre 1996, quelque 300.000 personnes défilaient en blanc à Bruxelles. L’affaire Dutroux a exposé une police et une justice incapables de coopérer — et accouché de la plus grande réforme policière du pays.",
+      "chiffre_cle": "300.000 — participants à la Marche blanche du 20 octobre 1996",
+      "niveaux_de_pouvoir": [
+        "Fédéral",
+        "Communes et CPAS",
+        "Pouvoir judiciaire"
+      ],
+      "statut": "Historique",
+      "gravite": 5,
+      "indice_de_brol": 4,
+      "condamnations": [],
+      "mots_cles": [
+        "Dutroux",
+        "Marche blanche",
+        "réforme des polices",
+        "justice",
+        "enfants disparus"
+      ],
+      "url": "https://ouaisfieu.github.io/compte/dossiers/dutroux-30-ans.html",
+      "sources": [
+        {
+          "editeur": "VRT NWS",
+          "date": "2026-10-20",
+          "titre": "20 octobre 1996 : il y a 30 ans, la Marche blanche rassemblait…",
+          "url": "https://www.vrt.be/vrtnws/fr/2026/10/20/20-octobre-1996-il-y-a-30-ans-la-marche-blanche-rassemblait/"
+        },
+        {
+          "editeur": "Brussels Times",
+          "date": "2026",
+          "titre": "The Dutroux case, 30 years on: How the White March confronted police failures",
+          "url": "https://brusselstimes.com/belgium/2368328/the-dutroux-case-30-years-on-how-the-white-march-confronted-police-failures/"
+        },
+        {
+          "editeur": "Brussels Times",
+          "date": "2026",
+          "titre": "The infamous Dutroux case, 30 years on: Why Belgian police failed to catch a killer",
+          "url": "https://brusselstimes.com/belgium/2267788/the-infamous-dutroux-case-30-years-on-why-belgian-police-failed-to-catch-a-killer/"
+        },
+        {
+          "editeur": "La DH",
+          "date": "2026-08-01",
+          "titre": "Il y a 30 ans, Marc Dutroux était arrêté à Marcinelle, et l’enquête est encore en cours",
+          "url": "https://www.dhnet.be/actu/faits/2026/08/01/mobilisation-du-peuple-belge-failles-de-la-justice-il-y-a-30-ans-marc-dutroux-etait-arrete-a-marcinelle-et-lenquete-est-encore-en-cours-VOJA6JQ6JRHWNNAYUKIFLGXILQ/"
+        },
+        {
+          "editeur": "Slate",
+          "date": "2026",
+          "titre": "Affaire Dutroux, trente ans après : un séisme qui a transformé la Belgique",
+          "url": "https://www.slate.fr/societe/affaire-dutroux-trente-ans-apres-seisme-transforme-belgique-justice-pedocrminalite"
+        },
+        {
+          "editeur": "Wikipedia",
+          "date": null,
+          "titre": "White March",
+          "url": "https://en.wikipedia.org/wiki/White_March"
+        }
+      ]
+    }
+  ]
+}
